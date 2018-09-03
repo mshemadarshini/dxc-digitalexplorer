@@ -21,9 +21,13 @@ DE is not a data lake, DE is a living dataset.  The knowledge is used from withi
 * [Complete Model](MetaModels/completeModel.md)
 * [Business Trends MetaModel](MetaModels/BusinessTrendMetaModel.md)
 * [Technology Trends Metamodel](MetaModels/TechnologyTrendMetaModel.md)
-* [Agendas Metamodel](MetaModels/AgendaMetaModel.md)
+* [Roadmap Metamodel](MetaModels/AgendaMetaModel.md)
 * [Solutions MetaModel](MetaModels/SolutionMetaModel.md)
 * [Workspace metamodel](MetaModels/WorkspaceMetaModel.md)
+
+### Training Guides
+
+* [Training Guides](training/readme.md)
 
 ### :busts_in_silhouette: Contacts
 
