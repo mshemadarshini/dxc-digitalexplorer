@@ -20,7 +20,7 @@ please prefix your issue with the corresponding Digital Explorer Module
 |---|---|
 |Roadmaps:|Digital Explorer Roadmaps
 |Explorer:|Graph Explorer
-|Platform:|Impacts the core platform of the DE environment
+|Platform:|Impacts the core platform of the DXC Digital Explorer environment
 |Solutions:|Digital Explorer Solutions
 |Stories:|Digital Explorer Stories
 |Trends:|Digital Explorer Trends

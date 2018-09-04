@@ -1,4 +1,4 @@
-# :movie_camera: List of DE videos  
+# :movie_camera: List of DXC Digital Explorer videos  
  
 ## DXC TV
 https://video.dxc.com/channel/Digital%2BExplorer 

@@ -1,11 +1,11 @@
 ## Digital Explorer Taxonomy
 
-The DE platform hosts 4 areas of knowledge
+The DXC Digital Explorer  platform hosts 4 areas of knowledge
 
-* Industry and technology trends : DE module 
-* Roadmaps : BVR module
-* DXC business\Industry solutions : SE module
-* Workspaces : DEW module
+* Industry and technology trends : \DE module 
+* Roadmaps : \BVR module
+* DXC business\Industry solutions : \SE module
+* Workspaces : \DEW module
 
 **Note** : The Explorer module does not extend the taxonomy model
 
