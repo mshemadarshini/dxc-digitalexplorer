@@ -13,7 +13,7 @@ DXC industry taxonomy
 
 **Used in**
 
-|   | Trends| Agenda | Solutions | Workspaces | Explorer|
+|   | Trends| Roadmaps | Solutions | Workspaces | Explorer|
 |---|---    |---     |---        |--          |---      |
 |   | X     | X      | X         |            |     X   |
 
@@ -22,7 +22,7 @@ DXC offering family names
 
 **Used in**
 
-| | Trends| Agenda | Solutions | Workspaces | Explorer|
+| | Trends| Roadmaps | Solutions | Workspaces | Explorer|
 |---|---|---|---|---|---|
 | |  |  | X | | X|
 
@@ -31,7 +31,7 @@ Master list of available roles to assign to people
 
 **Used in**
 
-| | Trends| Agenda | Solutions | Workspaces | Explorer|
+| | Trends| Roadmaps | Solutions | Workspaces | Explorer|
 |---|---|---|---|---|---|
 | | X | X | X | | |
 
@@ -41,7 +41,7 @@ Master list of technology groups
 
 **Used in**
 
-| | Trends| Agenda | Solutions | Workspaces | Explorer|
+| | Trends| Roadmaps | Solutions | Workspaces | Explorer|
 |---|---|---|---|---|---|
 | | X |  | X | | X |
 
@@ -50,7 +50,7 @@ Master list of available documentation types
 
 **Used in**
 
-| | Trends| Agenda | Solutions | Workspaces | Explorer|
+| | Trends| Roadmaps | Solutions | Workspaces | Explorer|
 |---|---|---|---|---|---|
 | | |  | X | X |  |
 
@@ -59,6 +59,6 @@ Reference node for all people assoicated with any module, action or node within 
 
 **Used in**
 
-| | Trends| Agenda | Solutions | Workspaces | Explorer|
+| | Trends| Roadmaps | Solutions | Workspaces | Explorer|
 |---|---|---|---|---|---|
 | |X |X  | X | X |X  |

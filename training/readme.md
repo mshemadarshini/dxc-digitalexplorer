@@ -22,15 +22,15 @@
 ### :books: [View the materials ](Trends/readme.md)
 <br>
 
-##  Digital Explorer : Agendas
+##  Digital Explorer : Roadmaps
 |Description|Level|Contact|
 |---|---|---|
-| Initial Agenda Set-up |300|David Stevens|
-| The Agenda Canvas |300|David Stevens|
-| The Agenda output and creating Strategic Initiatives |300|David Stevens|
+| Initial Roadmap Set-up |300|David Stevens|
+| The Roadmap Canvas |300|David Stevens|
+| The Roadmap output and creating Strategic Initiatives |300|David Stevens|
 | Using a template |200|David Stevens|
 
-### :books: [View the materials ](InnovationAgendas/readme.md)
+### :books: [View the materials ](Roadmaps/readme.md)
 <br>
 
 ## Digital Explorer :  Solutions
@@ -64,11 +64,11 @@
 ### Digital Explorer : Reviewing trends level 300
 ### Digital Explorer : Adding Digital Stories level 300
 ### Digital Explorer Solutions : Overview level 100
-### Agendas creating a template level 200
-### Agenda Insights level 200
+### Roadmap creating a template level 200
+### Roadmap Insights level 200
 ### Platform administration
 #### Meta data management
 #### User role management
 #### Attachment management
 #### Data quality reports
-#### Innovation Agendas : Account and Program Management
+#### Innovation Roadmap : Account and Program Management

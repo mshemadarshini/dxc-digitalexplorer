@@ -3,7 +3,7 @@
 The DE platform hosts 4 areas of knowledge
 
 * Industry and technology trends : DE module 
-* Client Innovation agendas : BVR module
+* Roadmaps : BVR module
 * DXC business\Industry solutions : SE module
 * Workspaces : DEW module
 
@@ -39,12 +39,12 @@ Security|Technology Group - Provides the validation and protection of IT systems
 ### Business Value Roadmaps
 |Term |Description|Example
 |-----|-----------|-------
-|Innovation Agenda| | 
-|Agenda Goal|Represents a high-level statement of intent, direction, or desired end state for the agenda||
-|Client Value Chain|see Industry Value Chain, within the innovation agenda, these are the ones selected/included within the agenda||
+|Roadmap| | 
+|Roadmap Goal|Represents a high-level statement of intent, direction, or desired end state for the roadmap||
+|Client Value Chain|see Industry Value Chain, within roadmap, these are the ones selected/included within the roadmap||
 |Client Value Chain KPI|A known Key Performance Indicator for the client's value chain.|
 |Client Value Chain Stakeholder|Name of any known stakeholders for the define client value chain|
-|Agenda Stakeholder|Name of any known stakeholders for the overall innovation agenda|
+|Roadmap Stakeholder|Name of any known stakeholders for the overall roadmap|
 |Disruptor|A trend placed in the context of a client from the global industry or technology trend catalog| |
 |Signal|A signal is an early indication of potential disruptor. Often captured in a single client conversation, a group of related signals can inform the industry and technology leaders of a new disruptor within the master catalog|
 |Disruptor Innovation Level : Incremential | Addressing this disruptor has incremental impact and benefit for the customers’ business   | Evolutionary roadmap item improves effectiveness or efficiency of a product, service process or business model) Evolutionary roadmap item|
@@ -55,7 +55,7 @@ Security|Technology Group - Provides the validation and protection of IT systems
 |Disruptor Business Area : Process | A series of logically related activities or tasks performed together to produce a defined set of results | e.g Digital transformation, purchase-to-pay, applying for a mortgage, ideation, innovation
 |Disruptor Business Area : Business Model | Collection of business processes which define a way of working | Online selling, national lottery, charitable foundation, travel agency, bricks and clicks, crowdsourcing)
 |Disruptor Focus Area | Flag to highlight if a disruptor is a focus area for the account team|
-|Client Strategic Initiative | A committed account initiative based on the output of the innovation agenda, can address one or more focus disruptors.|
+|Client Strategic Initiative | A committed account initiative based on the output of the roadmap, can address one or more focus disruptors.|
 
 
 ### Solution Explorer

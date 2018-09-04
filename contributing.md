@@ -18,7 +18,7 @@ please prefix your issue with the corresponding Digital Explorer Module
 
 |Prefix|Module|
 |---|---|
-|Agendas:|Digital Explorer Agendas
+|Roadmaps:|Digital Explorer Roadmaps
 |Explorer:|Graph Explorer
 |Platform:|Impacts the core platform of the DE environment
 |Solutions:|Digital Explorer Solutions

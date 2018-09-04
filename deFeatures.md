@@ -12,20 +12,20 @@
 | Trends | _Role : Trend Reviewer_ | Internal role - review and approve proposed changes to the trends |   |
 | Trends | Achievements | Earn achievement badges for contributing to the Trends module | [ScreenShot](images/samples/TrendAchievements.png) [Link](https://digitalexplorer.dxc.com/de/achievements) |
 
-## Agendas
+## Roadmaps
 | **Module** | **Feature** | **Description** | **Link** |
 | --- | --- | --- |---|
-| Agendas | Internal Programs and groups | Ability to create internal groups to assign accounts - track progress of the creation of the innovation agendas - filter by industry or region |[ScreenShot](images/samples/AgendaPrograms.png)   |
-| Agendas | Industry templates | Allow users to create and re-use any available templates for their client innovation agendas | [ScreenShot](images/samples/SelectAgendaTemplate.png)   |
-| Agendas | Client Strategic goals | Capture client strategic goals as they relate to the innovation agenda (incs KPI&#39;s) |[ScreenShot](images/samples/CreateAgenda.png)   |
-| Agendas | Client disruptors, focus areas, risk and innovation levels | Ability to capture key information about each entry within the Sunray diagram and how they impact the client |[ScreenShot](images/samples/AgendaLevels.png)    |
-| Agendas | Recommendation engine | Smart look-up for similar disruptors from all other innovation agendas - filter by industry or region |   |
-| Agendas | Innovation Sunray diagram | Interactive creation and presentation of the innovation sunray diagram (sometime referred to as the T-Map) | [ScreenShot](images/samples/AgendaSunray.png)  |
-| Agendas | Account focus areas | Final output of the innovation agenda - selection of focus disruptors and the definition of the account&#39;s strategic initiatives (planned connect the related client goals as well) | [ScreenShot](images/samples/AgendaClientInitatives.png)  |
-| Agendas | DXC Solutions | Dynamic list of available DXC solution based on the disruptors within the innovation agenda | [ScreenShot](images/samples/AgendaSolutions.png)  |
-| Agendas | Export to PDF | Export innovation agenda to PDF file | [Example](images/samples/agenda.pdf)  |
-| Agendas | Agenda Insights | heatmap reports across all Agendas (group by region or industry) | [ScreenShot](images/samples/AgendaInsights.png)  |
-| Agendas | _Role : Agenda Manager_ | Internal role - assign people to accounts, create internal program groups and review all agendas within the system |   |
+| Roadmaps | Internal Programs and groups | Ability to create internal groups to assign accounts - track progress of the creation of the roadmaps- filter by industry or region |[ScreenShot](images/samples/AgendaPrograms.png)   |
+| Roadmaps | Industry templates | Allow users to create and re-use any available templates for their client roadmap | [ScreenShot](images/samples/SelectAgendaTemplate.png)   |
+| Roadmaps | Client Strategic goals | Capture client strategic goals as they relate to the roadmap (incs KPI&#39;s) |[ScreenShot](images/samples/CreateAgenda.png)   |
+| Roadmaps | Client disruptors, focus areas, risk and innovation levels | Ability to capture key information about each entry within the Sunray diagram and how they impact the client |[ScreenShot](images/samples/AgendaLevels.png)    |
+| Roadmaps | Recommendation engine | Smart look-up for similar trends from all other roadmaps - filter by industry or region |   |
+| Roadmaps | Innovation Sunray diagram | Interactive creation and presentation of the innovation sunray diagram (sometime referred to as the T-Map) | [ScreenShot](images/samples/AgendaSunray.png)  |
+| Roadmaps | Account focus areas | Final output of the roadmap - selection of focus disruptors and the definition of the account&#39;s strategic initiatives (planned connect the related client goals as well) | [ScreenShot](images/samples/AgendaClientInitatives.png)  |
+| Roadmaps | DXC Solutions | Dynamic list of available DXC solution based on the trends within the roadmap | [ScreenShot](images/samples/AgendaSolutions.png)  |
+| Roadmaps | Export to PDF | Export Roadmaps to PDF file | [Example](images/samples/agenda.pdf)  |
+| Roadmaps | Roadmaps Insights | heatmap reports across all roadmaps (group by region or industry) | [ScreenShot](images/samples/AgendaInsights.png)  |
+| Roadmaps | _Role : Roadmap Manager_ | Internal role - assign people to accounts, create internal program groups and review all Roadmaps within the system |   |
 
 ## Solutions
 | **Module** | **Feature** | **Description** | **Link** |
