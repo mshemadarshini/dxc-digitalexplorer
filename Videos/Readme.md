@@ -7,7 +7,7 @@ Various videos grouped as
 
 * intro
 * trends module
-* agenda module
+* Roadmap module
 * workspace module
 * solution module
 * Release notes

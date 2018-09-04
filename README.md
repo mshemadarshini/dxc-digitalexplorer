@@ -1,7 +1,7 @@
 ## DXC DigitalExplorer 
 
-DXC Digital Explorer is the enterprise knowledge graph for DXC
-1.	Informing us about the needs of our existing and future clients through Trends & Agendas
+DXC Digital Explorer is an Enterprise knowledge graph to understand, shape and enable Digital Transformation
+1.	Understand, the needs of  clients through Trends & Roadmaps
     - Providing Industry views of business and technology trends which help frame conversations with our clients
     - Innovation Agendas drive the client towards the right goal
         - Providing a structure approach to understand the relevant trend/enabler and the risk level associated to the client
@@ -11,7 +11,7 @@ DXC Digital Explorer is the enterprise knowledge graph for DXC
     - Solutions defined by “type” = Labs, delivery, showcases, prototypes, compound solutions.
 3.	The graph highlights the skills and potential of our people (for free)
 
-DE is not a data lake, DE is a living dataset.  The knowledge is used from within graph to shape the other DE modules. 
+DXC Digital Explorer is not a data lake, DE is a living dataset.  The knowledge is used from within graph to shape the other DXC Digital Explorer modules. 
 
 * [DE key features](deFeatures.md)
 * [Release Notes](ReleaseNotes)
@@ -25,7 +25,7 @@ DE is not a data lake, DE is a living dataset.  The knowledge is used from withi
 * [Solutions MetaModel](MetaModels/SolutionMetaModel.md)
 * [Workspace metamodel](MetaModels/WorkspaceMetaModel.md)
 
-### Training Guides
+### :books: Training Guides
 
 * [Training Guides](training/readme.md)
 
