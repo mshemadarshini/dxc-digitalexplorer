@@ -17,13 +17,13 @@ DXC Digital Explorer is an Enterprise knowledge graph to understand, shape and e
 
 DXC Digital Explorer is not a data lake, DXC Digital Explorer is a living dataset.  The knowledge is used from within graph to shape the other DXC Digital Explorer modules. 
 
-* [DXC Digital Explorer key features](deFeatures.md)
-* [Release Notes](ReleaseNotes)
-* [Contributing to Digital Explorer](contributing.md)
+## :memo: [Key features of DXC Digital Explorer ](deFeatures.md)
 
-### :books: Training Materials
+### :books: [Training Materials](training/readme.md)
 
-* [Training Guides](training/readme.md)
+### :busts_in_silhouette: [Contributing to DXC Digital Explorer](contributing.md)
+
+### :bookmark: [Release Notes](ReleaseNotes)
 
 ### :books: Meta Models
 * [Complete Model](MetaModels/completeModel.md)
@@ -35,4 +35,4 @@ DXC Digital Explorer is not a data lake, DXC Digital Explorer is a living datase
 
 ### :busts_in_silhouette: Contacts
 
-* Product Owner/Architect : David Stevens (davidstevens@dxc.com)
+* Product Owner/Architect : [David Stevens](davidstevens@dxc.com)
