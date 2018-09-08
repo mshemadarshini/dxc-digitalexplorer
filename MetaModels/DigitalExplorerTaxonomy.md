@@ -47,7 +47,7 @@ Security|Technology Group - Provides the validation and protection of IT systems
 |Roadmap Stakeholder|Name of any known stakeholders for the overall roadmap|
 |Disruptor|A trend placed in the context of a client from the global industry or technology trend catalog| |
 |Signal|A signal is an early indication of potential disruptor. Often captured in a single client conversation, a group of related signals can inform the industry and technology leaders of a new disruptor within the master catalog|
-|Disruptor Innovation Level : Incremential | Addressing this disruptor has incremental impact and benefit for the customers’ business   | Evolutionary roadmap item improves effectiveness or efficiency of a product, service process or business model) Evolutionary roadmap item|
+|Disruptor Innovation Level : Incremental | Addressing this disruptor has incremental impact and benefit for the customers’ business   | Evolutionary roadmap item improves effectiveness or efficiency of a product, service process or business model) Evolutionary roadmap item|
 |Disruptor Innovation Level : Radical | Addressing this disruptor has a radical impact and benefit to the customers’ business |brings customer up to top quartile performance in the area in terms of product, service process or business model)|
 |Disruptor Innovation Level : Transformational | Addressing this disruptor has Transformational impact on the customers’ business |clear blue water between customer and followers  in terms of product, service process or business model)|
 |Disruptor Business Area : Product | Something you buy and own and are responsible for maintaining and using | Cars, printers, laptops, houses, data centres|
@@ -62,16 +62,16 @@ Security|Technology Group - Provides the validation and protection of IT systems
 |Term |Description|Example
 |-----|-----------|-------
 |Elevator Pitch | Short description of the solution | How would the solution be tweeted? 
-|Solution Desription | Long description of the solution
+|Solution Description | Long description of the solution
 |Solution Status |Current status of the solution | Concept, Prototype, pilot, production
 |Solution Value Proposition|
 |Motivations | Business motivations related to the need/driver triggering the need for the solution | consider trends within Digital Explorer 
 |Features : Offering | DXC offerings used within the solutions |
-|Features : Method | Metholodgy applied or followed to deliver the solution| Agile
+|Features : Method | Methodology applied or followed to deliver the solution| Agile
 |Features : Dataset | Details of any datasets used within the solution, can be open or private data |
 |Features : Component | General component used within the solution, which falls outside of the DXC offerings |
-|Feature sets | Logical grouping of one or more features into a indiviudual configuration profile within the solution
-|Solution Roles | Defintion of people and roles assoicated with the solution | Solution Owner, UX Lead, Architect | 
+|Feature sets | Logical grouping of one or more features into a individual configuration profile within the solution
+|Solution Roles | Definition of people and roles associated with the solution | Solution Owner, UX Lead, Architect | 
 |Offering Family| Top level grouping of the offering families within the Solution | Mobility and workplace | 
 |Category| Logical grouping used to identify the type of solution |IOT | *could be removed with the direct connection of trends*
 |Tag| free form text to allow users to group solutions |Solution Olympics, Gartner 2017 | 
@@ -84,4 +84,4 @@ Security|Technology Group - Provides the validation and protection of IT systems
 |Workspace Name| name of the workspace|
 |Workspace member | any person with access to the workspace|
 |workspace card | generic term for any object placed within the workspace canvas | a solution, a trend|
-|Workspace Note | free text note related to with the overall workshop or an indivdual card |
+|Workspace Note | free text note related to with the overall workshop or an individual card |

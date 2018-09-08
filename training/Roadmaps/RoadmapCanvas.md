@@ -38,6 +38,6 @@ You can edit and provide further information to any trend within the agenda, sim
 Once you have completed the canvas, select `save and view` to view the Agenda output<br>
 <br>
 :bulb: The Agenda canvas will automatically save every 15 minutes<br><br>
-:high_brightness: Aim for a maximum of 12 trends within each client value chain, anymore and you may wish to split the value chain or agenda into multiple parts.<br>
+:high_brightness: Aim for a maximum of 12 trends within each client value chain, any more and you may wish to split the value chain or agenda into multiple parts.<br>
 
 ## [Next - The Agenda Output](AgendaOutput.md)

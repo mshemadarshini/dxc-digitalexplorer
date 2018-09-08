@@ -38,7 +38,7 @@ The trends within the sunray diagram are colour coded based on their type and al
 ### Innovation View 
 The innovation view is an interactive table for you to focus the content of the agenda to the current conversation<br>
 ![agenda1](images/agenda19.png)<br>
-You can control the horizonal and vertical dimensions using the options at the top of the page.<br>
+You can control the horizontal and vertical dimensions using the options at the top of the page.<br>
 ![agenda1](images/agenda15.png)<br>
 <br>
 You can also control which client value chains and the types of trends to be shown by using the controls on the right hand side<br>
