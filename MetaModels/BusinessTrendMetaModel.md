@@ -11,7 +11,7 @@
 |id|system generated
 |Name |short name of the trend
 |Description | extended description of the trend
-|Source | free text to idenify the source of trend 
+|Source | free text to identify the source of trend 
 |Reference | option URI link to the source material
 
 

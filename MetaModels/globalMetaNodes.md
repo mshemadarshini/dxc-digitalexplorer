@@ -55,7 +55,7 @@ Master list of available documentation types
 | | |  | X | X |  |
 
 ## Person
-Reference node for all people assoicated with any module, action or node within the database.
+Reference node for all people associated with any module, action or node within the database.
 
 **Used in**
 
