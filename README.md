@@ -17,7 +17,7 @@ DXC Digital Explorer is an Enterprise knowledge graph to understand, shape and e
 
 DXC Digital Explorer is not a data lake, DXC Digital Explorer is a living dataset.  The knowledge is used from within graph to shape the other DXC Digital Explorer modules. 
 
-## :memo: [Key features of DXC Digital Explorer ](deFeatures.md)
+### :memo: [Key features of DXC Digital Explorer ](deFeatures.md)
 
 ### :books: [Training Materials](training/readme.md)
 
