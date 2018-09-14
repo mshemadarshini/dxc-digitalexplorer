@@ -18,7 +18,7 @@
 |Trends|Trend Approved|1st Trend|Onboard Trends|Submitted first trend|![badge](images/achievements/onboardtrends.png)
 |Trends|Trend Approved|10th Trend|ThoughtLeader|Submitted 10th trend|![badge](images/achievements/thoughtleader.png)
 |Trends|Trend Approved|Trend 2 Industry|Trend Industrialist `<name>`|Submit your first trend for a named industry|![badge](images/achievements/TrendIndustrialistmanufacturing.png)
-|Trends|Trend Approved|Trend 2 Technology|Trend Technologist|Trend Technologist|Submit your first trend for a technology group|![badge](images/achievements/TrendTechnologist.png)
+|Trends|Trend Approved|Trend 2 Technology|Trend Technologist|Submit your first trend for a technology group|![badge](images/achievements/TrendTechnologist.png)
 
 |Module|Event|Award|Name|Description|Badge
 |----|----|----|----|----|----|
