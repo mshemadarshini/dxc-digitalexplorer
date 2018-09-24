@@ -34,7 +34,7 @@ DXC Digital Explorer is not a data lake, DXC Digital Explorer is a living datase
 * [Workspace metamodel](MetaModels/WorkspaceMetaModel.md)
 
 ### :trophy: Awards
-* :trophy: [Neo4j Graph Impact award 2018 for Digital Transformation](https://neo4j.com/news/2018-graphie-award-winners/)
+* [Neo4j Graph Impact award 2018 for Digital Transformation](https://neo4j.com/news/2018-graphie-award-winners/)
 
 ### :busts_in_silhouette: Contacts
 
