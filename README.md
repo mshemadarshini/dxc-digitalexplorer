@@ -2,13 +2,13 @@
 
 ## DXC DigitalExplorer 
 
-DXC Digital Explorer is an Enterprise knowledge graph to understand, shape and enable Digital Transformation
-1.	Understand, the needs of  clients through Trends & Roadmaps
+DXC Digital Explorer is an Enterprise knowledge graph build using **[neo4j](https://neo4j.com/)**.  The platform provides the means to understand, shape and enable Digital Transformation for you and your clients.
+1.	Understand, the needs of  clients through **Trends** & **Roadmaps**
     - Providing Industry views of business and technology trends which help frame conversations with our clients
     - Roadmaps drive the client towards the right goal
         - Providing a structure approach to understand the relevant trend/enabler and the risk level associated to the client
         - Provides outside-in information which must be used to influence the offering IRBs and partner conversations
-2.	Shows evidence of our integrated solutions across build, sell and delivery through the Solutions module.
+2.	Shows evidence of our integrated solutions across build, sell and delivery through the **Solutions** module.
     - Solutions can include both internal and partner capabilities
     - Solutions defined by “type” = Labs, delivery, showcases, prototypes, compound solutions.
 3.	The graph highlights the skills and the potential of people (for free)
@@ -16,6 +16,8 @@ DXC Digital Explorer is an Enterprise knowledge graph to understand, shape and e
     - lead solutioners
 
 DXC Digital Explorer is not a data lake, DXC Digital Explorer is a living dataset.  The knowledge is used from within graph to shape the other DXC Digital Explorer modules. 
+
+### :building_construction: [Platform Architecture](deArchitecture.md)
 
 ### :memo: [Key features of DXC Digital Explorer ](deFeatures.md)
 
