@@ -5,7 +5,7 @@
 * [Business Trends](BusinessTrendMetaModel.md)
 * [Technology Trends](TechnologyTrendMetaModel.md)
 * [Digital Stories](DigitalStories.md)
-* [Roadmaps ](RoadmapsMetaModel.md)
+* [Roadmaps ](RoadmapMetaModel.md)
 * [Solutions](SolutionMetaModel.md)
 * [Workspaces](WorkspaceMetaModel.md)
 
