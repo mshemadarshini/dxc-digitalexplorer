@@ -1,5 +1,7 @@
 # Digital Explorer Key Features
 
+[Review the feature list based on user access ](userFeatures.md)
+
 ## Trends
 
 | **Module** | **Feature** | **Description** | **Link** |
