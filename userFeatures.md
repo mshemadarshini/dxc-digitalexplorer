@@ -6,7 +6,7 @@ The DXC Digital Explorer platform support 2 methods of authentication, SAML2 and
 - local accounts provide limited access to features within the platform.
 
 
-# Trends
+## Trends
 
 | Feature | SAML2 Users | Local Users
 |---|---|---|
@@ -20,7 +20,7 @@ The DXC Digital Explorer platform support 2 methods of authentication, SAML2 and
 |Add new digital Story |  :white_check_mark:	 | :x:
 
 
-# Roadmaps
+## Roadmaps
 
 | Feature | SAML2 Users | Local Users
 |---|---|---|
@@ -33,10 +33,10 @@ The DXC Digital Explorer platform support 2 methods of authentication, SAML2 and
 |View roadmap insights |  :white_check_mark:	 | :x: 
 |Manage accounts and programs |  :white_check_mark:	 | :x: 
 
-one: User must be assigned to the required account by a SAML2 user
+:one: User must be assigned to the required account by a SAML2 user
 
 
-# Solutions
+## Solutions
 
 | Feature | SAML2 Users | Local Users
 |---|---|---|
@@ -50,7 +50,7 @@ one: User must be assigned to the required account by a SAML2 user
 :two: - User must be assigned a role in order to edit the solution
 
 
-# Workspaces
+## Workspaces
 
 | Feature | SAML2 Users | Local Users
 |---|---|---|
@@ -59,7 +59,7 @@ one: User must be assigned to the required account by a SAML2 user
 |delete a workspace|:white_check_mark:	 | :white_check_mark:
 
 
-# Explorer
+## Explorer
 | Feature | SAML2 Users | Local Users
 |---|---|---|
 |View reference solutions| :white_check_mark:	 | :white_check_mark:
