@@ -2,8 +2,8 @@
 
 Non-DXC employees can register for a 30 day limited account for the DXC Digital Explorer platform, please refer to 
 
-- [DXC Digital Explorer Privacy Statement](../PlatformPrivacyStatement.md)
-- [User Features for non-DXC employees](../userFeatures.md)
+- [DXC Digital Explorer Privacy Statement](../../PlatformPrivacyStatement.md)
+- [User Features for non-DXC employees](../../userFeatures.md)
 
 ---
 
