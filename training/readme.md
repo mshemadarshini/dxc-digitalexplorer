@@ -4,6 +4,8 @@
 |Description|Level|Contact|
 |---|---|---|
 |Introduction to the Digital Explorer Platform|100|David Stevens|
+|Registering a trial account|101|David Stevens|
+
 
 ### :books: [View the materials ](101/readme.md)
 
