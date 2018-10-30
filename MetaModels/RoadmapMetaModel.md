@@ -1,5 +1,5 @@
 
-![AgendaModel](../images/AgendaModel.png)
+![AgendaModel](../images/RoadmapModel.png)
 
 #### **Node Definitions**
 
@@ -73,8 +73,8 @@ Specialized instance of the business or technology trend within the innovation a
 |focusArea|flag to set the value if the disruptor becomes a focus area for the account team
 
 
-##### Node Label: ClientStrategicInitiative
-Outcome of the innovation agenda, selected focus areas are combined to create a new strategic initiative
+##### Node Label: ClientIdea
+Outcome of the innovation agenda, selected focus areas are combined to create a new project idea
 
 |Property|Description|
 |----|----|
