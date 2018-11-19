@@ -1,23 +1,17 @@
  
-# New release just deployed
-
-##  Platform : New authentication model - DXC and NONDXC USER ACCESS
+# New release DXC Digital Explorer just deployed
 
 **Roadmaps** 
-- Improved management of accounts
-- Present a list of the users accounts with and without roadmaps
-- Allow users to add/remove others from their accounts
-- Revised DXC design on the output pages
-- New account business framework summary page
+- View and create your solutions direct from your blueprint summary
 
 **Solutions** 
-- Allow users to create new solutions from the output of an Strategic Initiative (ASD release 1)
-- Smart-lookup for matching trends based on description and value proposition text
-- Performance improvement for save/edit solution event (+1000% improvement)
+- Simplified the solution capture UI (capabilities)
+- new industry dashboard
 
-### Overview video : https://video.dxc.com/media/t/1_83ciqt2z
+### Overview video : https://video.dxc.com/media/t/1_a6ikbi1a/79980521
 
 ### Full release notes : 
-https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/ReleaseNotes/2018.10.17.md
+https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/ReleaseNotes/2018.11.19.md
 
 #digitalexplorer
+
