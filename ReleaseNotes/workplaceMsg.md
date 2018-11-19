@@ -2,7 +2,7 @@
 # New release DXC Digital Explorer just deployed
 
 **Roadmaps** 
-- View and create your solutions direct from your blueprint summary
+- View and create your solutions directly from your blueprint summary
 
 **Solutions** 
 - Simplified the solution capture UI (capabilities)
