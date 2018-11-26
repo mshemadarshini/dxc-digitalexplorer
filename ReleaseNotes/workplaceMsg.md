@@ -2,16 +2,15 @@
 # New release DXC Digital Explorer just deployed
 
 **Roadmaps** 
-- View and create your solutions directly from your blueprint summary
+- Complete your account BVF with Client KPI's
 
 **Solutions** 
-- Simplified the solution capture UI (capabilities)
-- new industry dashboard
+- Improved search logic and performance
 
-### Overview video : https://video.dxc.com/media/t/1_a6ikbi1a/79980521
+### Overview video : https://video.dxc.com/media/t/1_2w3bhrlt
 
 ### Full release notes : 
-https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/ReleaseNotes/2018.11.19.md
+https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/ReleaseNotes/2018.11.27.md
 
 #digitalexplorer
 
