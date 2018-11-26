@@ -36,5 +36,6 @@ DXC Digital Explorer allows `Accounts` to be assigned to `internal program group
 1. Select the `EYE` icon to view an existing group
     <br>![login](images/groups6.png)
 1. Within this view you can view accounts with and without roadmaps
+1. You can select to view any created roadmap by selecting the `eye` icon
 
 
