@@ -1,8 +1,14 @@
 # Digital Explorer | Roadmaps - Program Groups
 
+## :lock: Restricted to DXC employees only
+
+- [Setting up a new group](#section1)
+- [Viewing a group](#section2)
+
+
 DXC Digital Explorer allows `Accounts` to be assigned to `internal program groups` within the roadmap module, this allows program leads the ability to track and report on a subset of accounts within the platform.
 
-## Setting up a new group
+## <a name='section1`'></a>Setting up a new group
 
 1. Access the DigitalExplorer site
      - https://digitalexplorer.dxc.com/bvr
@@ -20,7 +26,7 @@ DXC Digital Explorer allows `Accounts` to be assigned to `internal program group
 1. You can add accounts via this form, select `ADD NEW` 
 1. You can also add account via the `account manager`
 
-## Viewing a group
+## <a name='section2`'></a>Viewing a group
 
 1. Access the DigitalExplorer site
      - https://digitalexplorer.dxc.com/bvr

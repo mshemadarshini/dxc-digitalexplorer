@@ -1,12 +1,14 @@
 # Digital Explorer | Roadmaps - Insights
 
+## :lock: Restricted to DXC employees only
+
 1. Access the DigitalExplorer site
      - https://digitalexplorer.dxc.com/bvr
      <br>
- 1. If not already in the `Roadmap` module change to the solutions module via the `appblock` in the header
-    <br>![appblock](images/appblock.png)
-1. Select **`Sign In`** from the header and login with your global pass account
+1. Select **`Login`**  with your global pass account 
     <br>![login](images/login.png)
+1. If not already in the `Roadmap` module change to the solutions module via the `appblock` in the header
+    <br>![appblock](images/appblock.png)
 1. Select **`Roadmap Insights`** from the homepage
     <br>![login](images/insights1.png)
 1. The **`INSIGHTS`** report is split into 3 sections
