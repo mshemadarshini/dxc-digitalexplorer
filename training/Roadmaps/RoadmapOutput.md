@@ -5,11 +5,11 @@ Once you have completed your roadmap within the canvas you are presented with th
 <br>
 The output is broken down into the following sections
 
-- [Summary](Summary)
-- [Sunray Diagram or TMAP](Sunray-or-TMAP-Diagram)
-- [Risk Ambition Profile](Risk-Ambition-Profile)
-- [Ideas](Ideas)
-- [DXC Solutions](DXC-Solutions)
+- [Summary](#Summary)
+- [Sunray Diagram or TMAP](#Sunray-or-TMAP-Diagram)
+- [Risk Ambition Profile](#Risk-Ambition-Profile)
+- [Ideas](#Ideas)
+- [DXC Solutions](#DXC-Solutions)
 
 ### Summary view
 Presenting to introduction information of the roadmap, from this tab you can also select to `Edit` or `Export to PDF` and update the Status of the roadmap
