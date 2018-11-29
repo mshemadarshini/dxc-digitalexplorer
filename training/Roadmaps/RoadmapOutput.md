@@ -1,7 +1,7 @@
 # Digital Explorer | roadmaps - Creating your roadmap
 
-## The roadmap output and creating Strategic Initiatives
-Once you have completed your roadmap within the canvas you are presented with the roadmap output, from this view you can continue to work on some elements of the roadmap, find potential candidate solutions and also define the Strategic Initiatives you will carry forward within the account.
+## The roadmap output and capturing Ideas
+Once you have completed your roadmap within the canvas you are presented with the roadmap output, from this view you can continue to work on some elements of the roadmap, find potential candidate solutions and also define the Ideas you will carry forward within the account.
 <br>
 The output is broken down into the following sections
 
@@ -59,6 +59,11 @@ The following information is required for each Idea
 - Focus Areas
 
 :bulb: The goals, KPI's and focus trends captured here - go on to form the initial business view of the planned solution.
+
+#### Progressing your ideas into Solutions
+Once _Ideas_ have been captured, these can be viewed within the ideas section and also used to trigger the creation of a solution canvas within _DXC Digital Explorer Solutions_
+![roadmap1](images/ideas1.png)<br>
+:bulb: [See the detailed guide on creating a solution from an Idea](Idea2Solution.md)
 
 ### Summary
 The summary view is essentially your Account Business Value Framework<br>
