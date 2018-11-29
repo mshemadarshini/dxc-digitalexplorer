@@ -67,4 +67,4 @@
 
 :information_desk_person:  Your roadmap is now ready to be created, either select `Save & Close` or `next` to proceed to the `roadmap canvas`<br>
 
-## [Next - The Roadmap Canvas](AgendaCanvas.md)
+## [Next - The Roadmap Canvas](RoadmapCanvas.md)
