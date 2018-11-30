@@ -18,6 +18,7 @@ The roadmap module uses a lot of the information from the Account business value
 | [Initial roadmap Set-up](InitialSetup.md) |300|David Stevens|
 | [The roadmap Canvas](RoadmapCanvas.md) |300|David Stevens|
 | [The roadmap output and capturing Ideas](RoadmapOutput.md) |300|David Stevens|
+| [Creating a solution from an Idea](Idea2Solution.md) |300|David Stevens|
 | [Using a template](UsingaTemplate.md) |200|David Stevens|
 | [Insights and reporting](RoadmapInsights.md)|300|David Stevens|
 | [Program groups - how to manage and track a group of accounts](RoadmapGroups.md)|300|David Stevens|
