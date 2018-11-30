@@ -45,5 +45,5 @@
 ## Playbooks
 |Module|Event|Award|Name|Description|Badge
 |----|----|----|----|----|----|
-|Playbooks|Create Playbook|Created first playbook|Digital Author|Created first playbook|
-|Playbooks|Create Playbook|Created 5th playbook|Digital Author level 2 (placeholder)|Created 5th playbook|
+|Playbooks|Create Playbook|Created first playbook|Digital Writer|Created first playbook|![badge](images/achievements/1stPlaybook.png)
+|Playbooks|Create Playbook|Created 5th playbook|Digital Author|Created 5th playbook|![badge](images/achievements/5thPlaybook.png)
