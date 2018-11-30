@@ -1,5 +1,12 @@
 # Achievements
 
+- [Solutions Module](#Solutions)
+- [Trends Module](#Trends)
+- [Roadmaps Module](#Roadmaps)
+- [Workspaces Module](#Workspaces)
+- [Playbooks Module](#Playbooks)
+
+## Solutions
 |Module|Event|Award|Name|Description|Badge
 |----|----|----|----|----|----|
 |Solutions|Save Solution|1st Solution|Onboard Solutions|Submitted first solution|![badge](images/achievements/onboardsolutions.png)
@@ -13,6 +20,7 @@
 |Solutions|Save Solution|Assigned industry to solution|Solution Industrialist|Submit your first solution for a named industry|![badge](images/achievements/solutionindustrialist.png)
 |Solutions|Save Solution|Assigned industry to solution|Solution Industrialist `<name>`|Submit your first solution for a named industry|
 
+## Trends
 |Module|Event|Award|Name|Description|Badge
 |----|----|----|----|----|----|
 |Trends|Trend Approved|1st Trend|Onboard Trends|Submitted first trend|![badge](images/achievements/onboardtrends.png)
@@ -20,16 +28,22 @@
 |Trends|Trend Approved|Trend 2 Industry|Trend Industrialist `<name>`|Submit your first trend for a named industry|![badge](images/achievements/TrendIndustrialistmanufacturing.png)
 |Trends|Trend Approved|Trend 2 Technology|Trend Technologist|Submit your first trend for a technology group|![badge](images/achievements/TrendTechnologist.png)
 
+## Roadmaps
 |Module|Event|Award|Name|Description|Badge
 |----|----|----|----|----|----|
 |Roadmaps|Save Roadmaps|people assigned to account at time of saving a roadmap|Onboard Roadmaps|Member of an account team with a Roadmaps|![badge](images/achievements/onboardagendas.png)
 |Roadmaps|Save Template|created template|Helping hands|Create your first agenda template|![badge](images/achievements/helpingHands.png)
 |Roadmaps|Create Initiative|people assigned to an account at the time a initiative is created|Taking the next step|Member of an account team who have created a strategic initiative|![badge](images/achievements/takingthenextstep.png)
 
+## Workspaces
 |Module|Event|Award|Name|Description|Badge
 |----|----|----|----|----|----|
 |Workspaces|Create Workspace|created first workspace|Onboard Workspaces|Created first workspace|![badge](images/achievements/onboardWorkspace.png)
 |Workspaces|Member of a workspace|added as a member of an existing workspace|Membership|added as a member of an existing workspace|![badge](images/achievements/intheclub.png)
 
 
-
+## Playbooks
+|Module|Event|Award|Name|Description|Badge
+|----|----|----|----|----|----|
+|Playbooks|Create Playbook|Created first playbook|Digital Author|Created first playbook|
+|Playbooks|Create Playbook|Created 5th playbook|Digital Author level 2 (placeholder)|Created 5th playbook|
