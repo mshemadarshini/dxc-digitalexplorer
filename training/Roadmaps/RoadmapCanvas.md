@@ -9,7 +9,7 @@ The canvas presents each client value chain on it's own dedicated tab, you can s
 
 #### The Canvas Layout
 The canvas is split into the configured time segments<br>
-:bulb: You can configure the time segments by selecting the `Setting` icon within tabs section<br>
+:bulb: You can configure the time segments by selecting the `Setting` icon within tabs section<br><br>
 ![agenda1](images/advancedSettingsCanvas.png)<br>
 ![agenda1](images/advancedSettings.png)<br>
 
@@ -39,6 +39,6 @@ You can edit and provide further information to any trend within the roadmap, si
 Once you have completed the canvas, select `save and view` to view the roadmap output<br>
 <br>
 :bulb: The Roadmap canvas will automatically save every 15 minutes<br><br>
-:high_brightness: **Aim for a maximum of 12 trends within each client value chain, any more and you may wish to split the value chain or roadmap into multiple parts.**<br>
+:high_brightness: Aim for a maximum of 12 trends within each client value chain, any more and you may wish to split the value chain or roadmap into multiple parts.<br>
 
 ## [Next - The Roadmap Output](RoadmapOutput.md)

@@ -5,15 +5,15 @@
 1. Access the DigitalExplorer site
      - https://digitalexplorer.dxc.com/bvr
      <br>
- 1. If not already in the `Roadmap` module change to the solutions module via the `appblock` in the header
+1. If not already in the `Roadmap` module change to the solutions module via the `appblock` in the header
     <br>![appblock](images/appblock.png)
 1. Select **`Sign In`** from the header and login with your global pass account
     <br>![login](images/login.png)
 1. Select to `Manage your accounts`<br>
-    <br>![agenda1](images/agenda1.png)
+    <br>![agenda1](images/agenda.png)<br>
     :bulb: Within this view you edit, view, copy or delete any existing roadmaps you have access too<br>
     :bulb: You can also view your assigned accounts which do not currently have a digital roadmap created for them<br>
-    :information_desk_person: This guide assumes you are creating a new roadmap
+    :information_desk_person: _This guide assumes you are creating a new roadmap_
 1. Select `Create new`<br>
     <br>![agenda1](images/agenda1a.png)<br>
 1.  <br>![agenda1](images/agenda2.png)<br>
