@@ -77,5 +77,5 @@ The DXC Solutions tab presents a list of all available solutions within Digital 
 
 ![agenda1](images/agenda18.png)<br>
 
-:bulb: To view a solution, click on the solution name
+:bulb: To view a solution, click on the solution name<br>
 :bulb: You can add any solution into a DXC Digital Explorer Workspace

@@ -30,7 +30,11 @@ As you build out your client Digital Blueprint you can create a number of views,
 
 ## Outline of the process steps
 
-1. Setup your initial blueprint
+1. Research your clients industry
+    1. Investigate your client strategic direction
+    1. Understand the key industry trends ([See how to use DXC Digital Explorer Trends](../Trends/Trends102/readme.md))
+    1. Investigate the general direction within the Industry ([see DXC Industry Primers :lock:](https://whatwesell.dxc.com/dxc/industries/))
+1. Setup your initial Digital blueprint within DXC Digital Explorer Roadmaps
     1. Goals
     1. KPIs
     1. Stakeholders
@@ -62,3 +66,7 @@ As you build out your client Digital Blueprint you can create a number of views,
 ### Risk Ambition Profile
 
 ![](images/sampleRiskTable.png)
+
+
+### Account Business Value Framework with ideas
+![](images/SampleBVFideas.png)
