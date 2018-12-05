@@ -24,6 +24,6 @@ The roadmap module uses a lot of the information from the Account business value
 | [Program groups - how to manage and track a group of accounts](RoadmapGroups.md)|300|David Stevens|
 | [FAQ](RoadmapFAQ.md)|100| David Stevens|
 
+---
 
-
-[Definition of terms](../defintionsOfTerms.md)
+- [Definition of terms](../defintionsOfTerms.md)
