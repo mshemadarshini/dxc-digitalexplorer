@@ -8,6 +8,7 @@
 * [Roadmaps ](RoadmapMetaModel.md)
 * [Solutions](SolutionMetaModel.md)
 * [Workspaces](WorkspaceMetaModel.md)
+* [Playbooks](PlaybooksMetaModel.md)
 
 ## References
 
