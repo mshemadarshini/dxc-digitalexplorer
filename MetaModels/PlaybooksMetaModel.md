@@ -10,6 +10,7 @@
 |name |name of the solution|string string |240 Characters
 |Subtitle| |string string |240 Characters
 |TitleImage|URI address for the image
+|BannerImage|URI address for the image
 |MoreInfo| | | Valid URL
 |Published| | boolean|
 
