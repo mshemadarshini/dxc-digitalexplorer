@@ -9,7 +9,6 @@
 |id|system generated
 |name |name of the solution|string string |240 Characters
 |Subtitle| |string string |240 Characters
-|Text| |string |5000 Characters
 |TitleImage|URI address for the image
 |MoreInfo| | | Valid URL
 |Published| | boolean|
@@ -22,8 +21,6 @@
 |SectionText1| |string |5000 Characters
 |SectionText2| |string |5000 Characters
 |SectionImage|URI address for the image
-
-
 
 #### Relationships
 
