@@ -22,3 +22,9 @@ There are a number of ways you can turn the page within the Playbooks.
 ### :bulb: Content page tips<br>
 The links within the content page can be selected and you will be taken directly to that section.<br>
 This also applies to the solution contents section.
+
+
+---
+
+[[BACK - Playbook Overview]](PlaybookOverview.md)<br>
+[[NEXT - Creating a playbook]](CreatingaPlaybook.md)

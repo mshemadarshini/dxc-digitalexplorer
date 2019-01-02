@@ -19,3 +19,7 @@ From this screen you can select to
     1. Delete
 <br>
 You can also view the creation date and if your playbook is private or available to all users
+
+---
+
+[[BACK - Creating a playbook]](CreatingaPlaybook.md)<br>

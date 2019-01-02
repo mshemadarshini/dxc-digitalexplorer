@@ -38,7 +38,7 @@ Ensure you have this information in mind before you start
 :bulb: all information on this page is optional
   <br>![appblock](images/playbook3.png)<br>
   :bulb: You can select a supporting image for your playbook section page  from the provided library or upload your own.<br>
-  
+
 ### Trends
   <br>![appblock](images/playbook4.png)
   search and add any required trends to your playbook.
@@ -65,3 +65,9 @@ You can search and add any other DXC employee as a contact to your playbook.<br>
 :bulb: You can add a solution directly from the solution datasheet within the Solution module to any existing playbook you have created
 
 <br>![appblock](images/solution2pb1.png)
+
+
+---
+
+[[BACK - Viewing a playbook]](ViewingaPlaybook.md)<br>
+[[NEXT - Managing your playbooks]](ManagingaPlaybook.md)

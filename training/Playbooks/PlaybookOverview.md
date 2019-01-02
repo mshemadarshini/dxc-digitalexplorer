@@ -23,7 +23,7 @@ Each Playbook is broken down into the following sections
 - Showcase solutions
 - Contacts
 
-:bulb: the Introduction page support [markdown](https://jfcere.github.io/ngx-markdown/) formatting, allowing you to add to your presentation style
+:bulb: the Introduction page support [markdown](https://jfcere.github.io/ngx-markdown/) formatting, allowing you to add to your presentation style<br>
 :bulb: The Trends and Solution sections are both optional
 
 
@@ -32,6 +32,11 @@ The following achievements are available for users of the playbook module
 
 - Writer : Created your first playbook
 - Author : Created your 5th playbook
+<br>
+You can view details of the awarded achievements via the achievement option from the menu.
+<br>
+![image](images/playbookAchievements.png)
 
+---
 
-
+[[NEXT - Viewing a playbook]](ViewingaPlaybook.md)
