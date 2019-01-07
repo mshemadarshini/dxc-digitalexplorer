@@ -49,10 +49,12 @@ _Italic text_ `_Italic text_`
 ~~~
 
 ### Headings `### Headings`
+#### Headings `#### Headings`
 
 Tables
+
 |heading|heading|
-|---|---|
+|----|----|
 |table cell|table cell|
 |table cell|table cell|
 
