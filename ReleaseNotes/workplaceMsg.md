@@ -1,17 +1,20 @@
  
 # New release DXC Digital Explorer just deployed
 
-**Roadmaps** 
-- Upload any supporting documentation as an attachment
-- Compact view for you Account Business Value Framework
+**Playbooks** 
+- New Module
 
-**Solutions** 
-- `Fork`\Copy an existing solution within the #ASD workflow
+**Platform** 
+- Submission timeline report
 
-### Overview video : https://video.dxc.com/media/t/1_2w3bhrlt
+**Roadmaps**
+- Open access - any user can now view any other digital roadmap (innovation agenda or T-Map)
+
+
+### Overview video : https://video.dxc.com/media/t/1_64ygsia4
 
 ### Full release notes : 
-https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/ReleaseNotes/2019.12.05.md
+https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/ReleaseNotes/2019.01.14.md
 
 #digitalexplorer
 
