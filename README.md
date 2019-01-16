@@ -20,7 +20,7 @@ DXC Digital Explorer is not a data lake, DXC Digital Explorer is a living datase
 
 ### :memo: [DXC Digital Explorer 2 slide primer](SongSheet/readme.md)
 
-### :memo: [Introduction Presentation](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/Presentations/DXC%20Digital%20Explorer.Overview.ShortVersion.pptx)
+### :link: <a href="https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/Presentations/DXC%20Digital%20Explorer.Overview.ShortVersion.pptx" download>Introduction Presentation</a>
 
 ### :memo: [Key features of DXC Digital Explorer ](deFeatures.md)
 
