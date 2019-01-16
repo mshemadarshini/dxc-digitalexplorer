@@ -17,7 +17,10 @@ DXC Digital Explorer is an Enterprise knowledge graph build using **[neo4j](http
 
 DXC Digital Explorer is not a data lake, DXC Digital Explorer is a living dataset.  The knowledge is used from within graph to shape the other DXC Digital Explorer modules. 
 
-### :building_construction: [Platform Architecture](deArchitecture.md)
+
+### :memo: [DXC Digital Explorer 2 slide primer](SongSheet/readme.md)
+
+### :memo: [Introduction Presentation](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/Presentations/DXC%20Digital%20Explorer.Overview.ShortVersion.pptx)
 
 ### :memo: [Key features of DXC Digital Explorer ](deFeatures.md)
 
@@ -25,9 +28,15 @@ DXC Digital Explorer is not a data lake, DXC Digital Explorer is a living datase
 
 ### :busts_in_silhouette: [Contributing to DXC Digital Explorer](contributing.md)
 
+### :building_construction: [Platform Architecture](deArchitecture.md)
+
 ### :bookmark: [Release Notes](ReleaseNotes)
 
-### :books: Meta Models
+### :page_with_curl: [F.A.Q.](SongSheet/faq.md)
+
+----
+
+### :books: Data Models
 * [Complete Model](MetaModels/completeModel.md)
 * [Business Trends MetaModel](MetaModels/BusinessTrendMetaModel.md)
 * [Technology Trends Metamodel](MetaModels/TechnologyTrendMetaModel.md)
