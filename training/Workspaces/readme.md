@@ -15,4 +15,5 @@
 | [Using the Workspace Canvas](WorkspaceCanvas.md)|100|David Stevens|
 | [Adding a Trend to a Workspace](AddingaTrendtoaWorkspace.md) |200|David Stevens|
 | [Adding a Solution to a Workspace](AddingaSolutiontoaWorkspace.md) |200|David Stevens|
+| [Workspace document upload and analyse](workspaceDocuments.md)|200|David Stevens|
 

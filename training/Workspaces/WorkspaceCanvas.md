@@ -31,6 +31,8 @@
         <br>![login](images/workspace8.png)<br><br>
     When adding new content you can either upload a file or provide a URL address
         <br>![login](images/workspace9.png)<br><br>
+        **Jan 2019 feature** : Digital Explorer will now analyse the contents of your document and add any matching "cards" to your workspace.<br>
+        See [Document Upload and Analyse](workspaceDocuments.md)
 
 
 ## [Next - Adding a Trend to a Workspace](AddingaTrendtoaWorkspace.md)
