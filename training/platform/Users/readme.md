@@ -6,7 +6,7 @@
 <br>
 :bulb: Access to all the platform admin items is via the `Solutions` module
 <br>
-<br>
+
 ## User management
 
 - Select `Manage Users` from the admin page

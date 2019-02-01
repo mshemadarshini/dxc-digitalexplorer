@@ -6,14 +6,14 @@
 <br>
 :bulb: Access to all the platform admin items is via the `Solutions` module
 <br>
-<br>
+
 ## Data quality reports
 
 - Select Data Validation from the admin page
 - 3 data quality reports are available.
   1. Solutions
-  1. Attachments
-  1. What We Sell Sync<br>
+  2. Attachments
+  3. What We Sell Sync<br>
  ![image](images/reports1.png)<br>
  
 

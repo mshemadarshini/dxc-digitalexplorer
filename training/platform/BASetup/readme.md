@@ -6,7 +6,7 @@
 <br>
 :bulb: Access to all the business area management page is via the `Trends` module
 <br>
-<br>
+
 ## Business Areas
 
 - Access the collaboration module within `trends`<br>
@@ -15,4 +15,3 @@
 ![image](images/ba2.png)<br>
 :bulb: you can provide a rich description of the business area
 :bulb: you can provide a display order for each business area
- 

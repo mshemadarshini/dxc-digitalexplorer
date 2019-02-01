@@ -6,7 +6,7 @@
 <br>
 :bulb: Access to all the platform admin items is via the `Solutions` module
 <br>
-<br>
+
 ## Meta Data
 :bulb: DXC Digital Explorer has a separation between Meta and Live data, whereby only once the meta data has been used once within the application is the live node created.   The meta data presents a list of all available category data within the platform; where as live will give representation of the selected and active content.
 

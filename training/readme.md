@@ -75,5 +75,20 @@
 ### :books: [View the materials ](Playbooks/readme.md)
 <br>
 
+
+# DXC Digital Explorer - Platform Admin
+
+
+### Supporting Training Guides
+
+|Description|Level|Contact|
+|---|---|---|
+| Managing Platform MetaData|300|David Stevens
+| User Roles|300|David Stevens
+| Data Quality Reports|300|David Stevens
+| Business Area Set-up|300|David Stevens
+
+### :books: [View the materials ](platform/readme.md)
+<br>
 --- 
 
