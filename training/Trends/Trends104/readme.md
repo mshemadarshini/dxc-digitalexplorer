@@ -11,11 +11,11 @@ The industry trends page is the master reference points for Digital trends impac
 ![image](images/industry2.png)<br>
 - From this page, select the required **Sub Industry**<br>
 - After selecting the required Sub Industry, the relevant **business areas** impacted by Digital Transformation are shown<br>
-![image](images/industry3.png)<br>
+![image](images/industry3.PNG)<br>
 - Select the required business area; from here you can then select each **maturity stage** to view the trends within your chosen industry.<br>
-![image](images/industry5.png)<br>
+![image](images/industry5.PNG)<br>
 - Trend information panel<br>
-![image](images/industry6.png)<br>
+![image](images/industry6.PNG)<br>
 The trend information panel consists of 5 areas:<br>
     1. A general description of the trend<br>
     1. A use case description on how this trend is impacted your selected _business area_ within the _sub-industry_<br>
