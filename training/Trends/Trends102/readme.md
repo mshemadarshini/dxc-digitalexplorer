@@ -13,19 +13,19 @@ The Trends homepage consists of 5 sections
 ![trend101](images/trends1.png)
 
 
-### Information Banner
+### 1 Information Banner
 Rolling banner giving details of each of the modules within the Digital Explorer platform
 
-### Digital Stories
+### 2 Digital Stories
 Highlights and recommended reads from across the Digital Explorer platform
 
-### Industry Trends
+### 3 Industry Trends
 Review key industry trends
 
-### Technology Trends
+### 4 Technology Trends
 Review key technology trends
 
-### Trends Insights
+### 5 Trends Insights
 Review insights from across the Digital Explorer platform, including summary viewpoints of key trends and demand signals.
 
 ## [Next - Digital Stories](../Trends103/readme.md)
