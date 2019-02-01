@@ -1,4 +1,4 @@
-# Digital Explorer | Trends 
+# DXC Digital Explorer | Trends 
 
 ## Overview of the Business Trends Model
 

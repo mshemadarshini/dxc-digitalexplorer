@@ -1,4 +1,4 @@
-# Digital Explorer | Trends - Submitting your trends
+# DXC Digital Explorer | Trends - Submitting your trends
 
 ## Before you begin
 
@@ -6,19 +6,18 @@
 - Are you adding a new trend and industry use case?
 - Are you adding a new use case to an existing trend?    
 
-The Digital Explorer trends model is split into 2 section.
+The DXC Digital Explorer trends model is split into 2 section.
 
 1. The general information about the trend
 2. The detailed industry use case for the trend
 
 A single trend can have multiple industry use cases
 
-
 ---
 
 ## Submission walkthrough
 
-1. Access the DigitalExplorer site
+1. Access the DXC Digital Explorer site
      - https://digitalexplorer.dxc.com/se
      <br>
 1. If not already in the `Trends` module change to the trends module via the `appblock` in the header

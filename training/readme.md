@@ -31,6 +31,9 @@
 | The Roadmap Canvas |300|David Stevens|
 | The Roadmap output and creating Strategic Initiatives |300|David Stevens|
 | Using a template |200|David Stevens|
+| Insights and reporting]|300|David Stevens|
+| Program groups - how to manage and track a group of accounts|300|David Stevens|
+| FAQ|100| David Stevens|
 
 ### :books: [View the materials ](Roadmaps/readme.md)
 <br>
@@ -45,32 +48,32 @@
 
 
 ## Digital Explorer : Workspaces
+
 |Description|Level|Contact|
 |---|---|---|
 | Creating a Workspace |100|David Stevens|
 | Using the Workspace Canvas|100|David Stevens|
 | Adding a Trend to a Workspace |200|David Stevens|
 | Adding a Solution to a Workspace |200|David Stevens|
+| Workspace document upload and analyse|200|David Stevens|
 
 ### :books: [View the materials ](Workspaces/readme.md)
 <br>
 
+
+## Digital Explorer : Playbooks
+
+|Description|Level|Contact|
+|---|---|---|
+| Overview of the Playbook Module|100|David Stevens|
+| Understanding the playbook restrictions model|100|David Stevens
+| Viewing a Playbook|100|David Stevens|
+| Creating a Playbook |200|David Stevens|
+| Playbook Creation Tips |250|David Stevens|
+| Managing your Playbooks |200|David Stevens|
+
+### :books: [View the materials ](Playbooks/readme.md)
+<br>
+
 --- 
 
-## To Do
-
-
-### Digital Explorer : Trends Overview level 100
-### Digital Explorer : Trends Stats level 100
-### Digital Explorer : Digital Stories  level 100
-### Digital Explorer : Reviewing trends level 300
-### Digital Explorer : Adding Digital Stories level 300
-### Digital Explorer Solutions : Overview level 100
-### Roadmap creating a template level 200
-### Roadmap Insights level 200
-### Platform administration
-#### Meta data management
-#### User role management
-#### Attachment management
-#### Data quality reports
-#### Innovation Roadmap : Account and Program Management
