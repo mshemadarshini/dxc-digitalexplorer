@@ -24,6 +24,8 @@ DXC Digital Explorer is not a data lake, DXC Digital Explorer is a living datase
 
 ### :memo: [Key features of DXC Digital Explorer ](deFeatures.md)
 
+### :trophy: [DXC Digital Explorer Achievements](Achievements.md)
+
 ### :books: [Training Materials](training/readme.md)
 
 ### :busts_in_silhouette: [Contributing to DXC Digital Explorer](contributing.md)
