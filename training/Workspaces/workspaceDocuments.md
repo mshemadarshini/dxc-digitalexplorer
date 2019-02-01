@@ -35,7 +35,7 @@ The following content types are matched within the Digital Explorer Platform
 
 - Digital Explorer will upload, analyse and add any matching cards into your workspace
 - A note is included within each matching card detailing the source file associated with the match and also the number of occurrences the match was found within the document.<br>
-![image](images/workspace14.png)<br>
+![image](images/workspace14.PNG)<br>
 
 
 
