@@ -10,10 +10,10 @@ The trend information pages provide a complete summary of any selected trend; th
   - **Most referenced** are the trends with the most usage across the roadmaps and solutions modules
   - Selecting one of the trends will forward you to the detailed trend information page; from this page you can view
     - ![image](images/insight3.PNG)<br>
-    - :bulb: The demand curve is generated based on the references made to this trend within the Digital Roadmaps
-    - :bulb: Near Neighbours are trends with a close placement within a digital roadmap to the selected trend
-    - :bulb: Industry use cases are a complete list of all industry use cases for this trends
-    - :bulb: Industry distribution is a graphical view of the distribution of this trend across all maturity levels
-    - :bulb: DXC Solutions provide a list of all solutions which address the trend
-    - :bulb: Partner Solutions provide a list of all partner capabilities which address the trend
-    - :bulb: Key Contributors provides a list of both trend author and solution owners for the trend
+    - **The demand curve** is generated based on the references made to this trend within the Digital Roadmaps
+    - **Near Neighbours** are trends with a close placement within a digital roadmap to the selected trend
+    - **Industry use cases** are a complete list of all industry use cases for this trends
+    - **Industry distribution** is a graphical view of the distribution of this trend across all maturity levels
+    - **DXC Solutions** provide a list of all solutions which address the trend
+    - **Partner Solutions** provide a list of all partner capabilities which address the trend
+    - **Key Contributors** provides a list of both trend author and solution owners for the trend
