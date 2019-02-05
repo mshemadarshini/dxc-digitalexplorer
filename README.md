@@ -17,6 +17,8 @@ DXC Digital Explorer is an Enterprise knowledge graph build using **[neo4j](http
 
 DXC Digital Explorer is not a data lake, DXC Digital Explorer is a living dataset.  The knowledge is used from within graph to shape the other DXC Digital Explorer modules. 
 
+![slide](images/DE.RFPFlow.png)
+
 
 ### :memo: [DXC Digital Explorer 2 slide primer](SongSheet/readme.md)
 
