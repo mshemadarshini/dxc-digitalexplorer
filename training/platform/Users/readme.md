@@ -2,7 +2,7 @@
 <br>
 :warning: Access to the admin pages is restricted to only users assigned the `Admin` role<br>
 <br>
-:warning: A general understanding of the Digital Explorer platform is assume so step-by-step notes will not be provided for some standard actions (e.g accessing a named module and menu items)
+:warning: A general understanding of the Digital Explorer platform is assumed so step-by-step notes will not be provided for some standard actions (e.g accessing a named module and menu items)
 <br>
 :bulb: Access to all the platform admin items is via the `Solutions` module
 <br>
