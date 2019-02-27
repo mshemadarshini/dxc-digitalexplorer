@@ -1,14 +1,14 @@
  
-# New release DXC Digital Explorer just deployed
+# DXC Digital Explorer new release  just deployed
 
-**Roadmaps : Open Accounts**
-
+- **Workspaces : Realtime collaboration and website reader**
 _plus_
-- Architecture Guild Shareathon Landing page and dashboard.
-- Trends - Default view switched to "In Demand" trends
+
+- new landing page
+- Solution champion achievement
 
 ### Full release notes : 
-https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/ReleaseNotes/2019.02.21.md
+https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/ReleaseNotes/2019.02.28.md
 
 #DigitalExplorer #Accelerate2Digital
 
