@@ -14,9 +14,9 @@ Ratio : 1
 |id|system generated|||
 |objectClass|system generated value = `Archimate_Product`|string|||
 |name |name of the solution|string||y
-|description |extended description of the solution|string||y
+|description |extended description of the solution|string|
 |elevatorPitch |short description of the solution |string|140 characters|y
-|generalValue |value proposition |string||y
+|generalValue |value proposition |string|
 |creationDate |system generated creation date|longdate
 |Status|Status of the solution|string
 |lastModificationDate |system generated last modified date|longdate
@@ -51,7 +51,7 @@ Ratio : 1:n
 |id|system generated|
 |objectClass|Archimate_Driver|
 |name ||y
-|description ||y
+|description |
 
 
 ##### Node Label: TechnologyTrend
@@ -64,7 +64,7 @@ Ratio : 1:n
 |----|----|----|
 |id|system generated
 |name ||y
-|description  |y
+|description  |
 
 
 ##### Node Label: BusinessTrend
@@ -76,7 +76,7 @@ Ratio : 1:n
 |----|----|----|
 |id|system generated
 |name ||y
-|description  ||y
+|description  |
 
 
 ##### Node Label: Feature
@@ -89,7 +89,7 @@ Ratio : 1:n
 |id|system generated|
 |objectClass|Archimate_Service|
 |name ||y
-|description  |y
+|description  |
 
 
 #### Node Label: FeatureSet
@@ -110,11 +110,11 @@ Scope : Queried against Person nodes within database - Readonly
 Architecture Layer : Business
 Ratio : 1:n
 
-|Property|Description|index
-|----|----|----|
+|Property|Description
+|----|----|
 |id|system generated
-|name|as defined in Global Pass|y
-|email|as defined in Global Pass|y
+|name|as defined in Global Pass|
+|email|as defined in Global Pass|
 
 
 
