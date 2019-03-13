@@ -111,8 +111,7 @@ Architecture Layer : Business
 Ratio : 1:n
 
 |Property|Description|index
-|----|----|
-----|
+|----|----|----|
 |id|system generated
 |name|as defined in Global Pass|y
 |email|as defined in Global Pass|y
@@ -293,3 +292,4 @@ Ratio : 1:1
 |Jan 2018| David Stevens | First version
 |May 2018| David Stevens | Updates to the attachment model (DocType)
 |August 2018| David Stevens | Updates to solution properties for Quantitate values, new SFDC node, relationship to Region
+|March 2019| David Stevens |Added indexing notes
