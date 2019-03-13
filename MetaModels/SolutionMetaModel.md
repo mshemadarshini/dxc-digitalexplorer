@@ -9,21 +9,21 @@ Scope : Top level object for solutions
 Architecture Layer : Business
 Ratio : 1
 
-|Property|Description|type|limits
-|----|----|----|----|
-|id|system generated
-|objectClass|system generated value = `Archimate_Product`|string
-|name |name of the solution|string
-|description |extended description of the solution|string
-|elevatorPitch |short description of the solution |string|140 characters
-|generalValue |value proposition |string
+|Property|Description|type|limits|index
+|----|----|----|----|----|
+|id|system generated|||
+|objectClass|system generated value = `Archimate_Product`|string|||
+|name |name of the solution|string||y
+|description |extended description of the solution|string||y
+|elevatorPitch |short description of the solution |string|140 characters|y
+|generalValue |value proposition |string||y
 |creationDate |system generated creation date|longdate
 |Status|Status of the solution|string
 |lastModificationDate |system generated last modified date|longdate
 |referenceable|value to set if solution is externally referencable|string |default = no
 |searchable|boolean value to set if the solution is returned in the search results|boolean| default = `true`
-|solution.BusinessValue|Quantitate value of the solution in terms of business outcomes|string
-|solution.TechnicalValue|Quantitate value of the solution in terms of technical outcomes|string
+|solution.BusinessValue|Quantitate value of the solution in terms of business outcomes|string||y
+|solution.TechnicalValue|Quantitate value of the solution in terms of technical outcomes|string||y
 |solution.Savings|total savings of the solution in K$|number
 |Solution.ImplementationTime|total implementation time for the solution|number
 |solution.TCV|total contract value of the solution|number
@@ -46,25 +46,25 @@ Scope : Key Business drivers and goals
 Architecture Layer : Business
 Ratio : 1:n
 
-|Property|Description|
-|----|----|
-|id|system generated
-|objectClass|Archimate_Driver
-|name |
-|description |
+|Property|Description|index
+|----|----|----|
+|id|system generated|
+|objectClass|Archimate_Driver|
+|name ||y
+|description ||y
 
 
-#####Node Label: TechnologyTrend
+##### Node Label: TechnologyTrend
 
 Scope :  Readonly - selected from trend catalog
 Architecture Layer : Business
 Ratio : 1:n
 
-|Property|Description|
-|----|----|
+|Property|Description|index
+|----|----|----|
 |id|system generated
-|name |
-|description  
+|name ||y
+|description  |y
 
 
 ##### Node Label: BusinessTrend
@@ -72,11 +72,11 @@ Scope :  Readonly - selected from trend catalog
 Architecture Layer : Business
 Ratio : 1:n
 
-|Property|Description|
-|----|----|
+|Property|Description|index
+|----|----|----|
 |id|system generated
-|name |
-|description  
+|name ||y
+|description  ||y
 
 
 ##### Node Label: Feature
@@ -84,12 +84,12 @@ Scope :  Component or element within the solution
 Architecture Layer : Functional 
 Ratio : 1:n
 
-|Property|Description|
-|----|----|
-|id|system generated
-|objectClass|Archimate_Service
-|name |
-|description  
+|Property|Description|index
+|----|----|----|
+|id|system generated|
+|objectClass|Archimate_Service|
+|name ||y
+|description  |y
 
 
 #### Node Label: FeatureSet
@@ -110,11 +110,12 @@ Scope : Queried against Person nodes within database - Readonly
 Architecture Layer : Business
 Ratio : 1:n
 
-|Property|Description|
+|Property|Description|index
 |----|----|
+----|
 |id|system generated
-|name|as defined in Global Pass
-|email|as defined in Global Pass
+|name|as defined in Global Pass|y
+|email|as defined in Global Pass|y
 
 
 
