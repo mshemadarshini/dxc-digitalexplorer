@@ -22,8 +22,8 @@ Ratio : 1
 |lastModificationDate |system generated last modified date|longdate
 |referenceable|value to set if solution is externally referencable|string |default = no
 |searchable|boolean value to set if the solution is returned in the search results|boolean| default = `true`
-|solution.BusinessValue|Quantitate value of the solution in terms of business outcomes|string||y
-|solution.TechnicalValue|Quantitate value of the solution in terms of technical outcomes|string||y
+|solution.BusinessValue|Quantitate value of the solution in terms of business outcomes|string||
+|solution.TechnicalValue|Quantitate value of the solution in terms of technical outcomes|string|
 |solution.Savings|total savings of the solution in K$|number
 |Solution.ImplementationTime|total implementation time for the solution|number
 |solution.TCV|total contract value of the solution|number
