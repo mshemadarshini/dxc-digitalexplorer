@@ -3,14 +3,16 @@
 
 - Are you assigned to an account?<br>
 :bulb:  **You must be assigned to an account in order to view or create a Roadmap**<br>
-If you are not assigned to an account contact your regional lead or someone already assigned to the account<br>
-- Have you prepared your **Account Business Value Framework**?<br>
-The roadmap module uses a lot of the information from the Account business value framework (aBVF), such as client goals and KPI's
-<br>
+If you are not assigned to an account you can request access using the `Account Manager` page<br>
+
+
+#### :movie_camera: Roadmap Module Training Playlist
+
+[![video](images/videoThumbnail.png)](https://dxc.mediaplatform.com/#!/video/1838/Digital+Explorer+Roadmaps+module+overview)
+_duration : 0:35_
 
 
 ### Supporting Training Guides
-
 
 |Description|Level|Contact|
 |---|---|---|

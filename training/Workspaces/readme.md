@@ -2,8 +2,8 @@
 
 #### :movie_camera: Workspace Video Training Playlist
 
-[![video](images/videoThumbnail.png)](https://video.dxc.com/playlist/dedicated/79980521/1_avh323uf/)
-
+[![video](images/videoThumbnail.png)](https://dxc.mediaplatform.com/#!/video/1836/Overview+of+the+Digital+Explorer+Workspace+Module)
+_duration : 0:56_
 ---
 
 ### Supporting Training Guides
