@@ -84,6 +84,7 @@ Outcome of the innovation agenda, selected focus areas are combined to create a 
 |modifiedDate|system generated last modified date
 |description| extended description of the 
 |SFDCID| free text to capture the SFDC id
+|Status| `approved` or `rejected`
 
 
 
@@ -117,11 +118,12 @@ Internal program group to help track the creation of innovation agendas
 |ClientDisruptor|ClientValueChain|DISRUPTORS
 |ClientDisruptor|BusinessTrend|SPECIALIZES
 |ClientDisruptor|TechnologyTrend|SPECIALIZES
-|ClientStrategicInitiative|ClientDistruptor|ASSIGNED
-|ClientStrategicInitiative|KPI|ADDRESSES
-|ClientStrategicInitiative|AgendaGoal|ADDRESSES
+|ClientIdea|ClientDistruptor|ASSIGNED
+|ClientIdea|KPI|ADDRESSES
+|ClientIdea|AgendaGoal|ADDRESSES
+|ClientIdea|Person|ASSIGNED |role
+|ClientIdea|Person|RANKED |vote
 |Account|DXCInternalProgram|MEMBER_OF
-
 
 
 ----
@@ -133,3 +135,4 @@ Internal program group to help track the creation of innovation agendas
 |Jan 2018| David Stevens | First version
 |May 2018| David Stevens | DXCInternalProgram - allow accounts to be grouped into internal programs
 |June 2018| David Stevens | updates to ClientStrategicInitiative, allow KPI's and Goals to be related to these.
+|March 2019|David Stevens | Idea voting, status and owners
