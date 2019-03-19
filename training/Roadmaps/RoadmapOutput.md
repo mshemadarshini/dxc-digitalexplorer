@@ -60,6 +60,18 @@ The following information is required for each Idea
 
 :bulb: The goals, KPI's and focus trends captured here - go on to form the initial business view of the planned solution.
 
+#### Voting on ideas
+Once _Ideas_ have been captured anyone within the account team can vote (up or down) on the idea.   This can be useful to allow the full team to share their viewpoints on the potential ideas to select to take forward into solutioning.
+
+![roadmap1](images/IdeaVoting.png)<br>
+
+#### Assigning owners
+A single owner can be assigned to an idea
+
+#### Approved or Reject ideas
+An simple informative status can be given to an idea.  `approved` or `rejected`
+
+
 #### Progressing your ideas into Solutions
 Once _Ideas_ have been captured, these can be viewed within the ideas section and also used to trigger the creation of a solution canvas within _DXC Digital Explorer Solutions_
 ![roadmap1](images/ideas1.png)<br>
