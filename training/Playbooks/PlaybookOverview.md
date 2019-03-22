@@ -6,7 +6,7 @@ The Playbooks module within DXC Digital Explorer allows you to create and share 
 
 ### Overview Video
 
-[![video](images/videoThumbnail.png)](https://video.dxc.com/media/t/1_v2i9r8ow)
+[![video](images/videoThumbnail.png)](https://dxc.mediaplatform.com/#!/video/648/DXC+Digital+Explorer+-+Playbooks+Overview)
 
 ### Example Use Cases
 

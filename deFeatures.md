@@ -45,6 +45,8 @@
 | Roadmaps | DXC Solutions | Dynamic list of available DXC solution based on the trends within the roadmap | [ScreenShot](images/samples/AgendaSolutions.png)  |
 | Roadmaps | Ideas | Capture potential ideas for the account team to take to the client for further discussion
 | Roadmaps | Idea Voting | Allow the full account team to vote (up or down) on the proposed ideas 
+| Roadmaps | Idea Owner | Allows a single contact to be named as the lead for an idea
+| Roadmaps | Idea Status | Allows for a simple informative status to be assigned to an idea.  `Approved` or `Rejected`
 | Roadmaps | Export to PDF | Export Roadmaps to PDF file | [Example](images/samples/agenda.pdf)  |
 | Roadmaps | Receive From | Ability to pre-populate a roadmap based on content from the Workspace module
 | Roadmaps | Roadmaps Insights | heatmap reports across all roadmaps (group by region or industry) | [ScreenShot](images/samples/AgendaInsights.png)  |
