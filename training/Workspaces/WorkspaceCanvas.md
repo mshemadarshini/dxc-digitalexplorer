@@ -4,11 +4,15 @@
 
 1. The Workspace canvas is divided into 4 areas:<br>
    <br>![login](images/workspace2.png)<br><br>
-    1. Manage Workspace
-    1. The Canvas
-    1. Information Panel
-    1. The Dock
-1. **Manage Workspace** <br>
+    1. Workspace tools
+       1. [Analyzer](WorkspaceAnaylzer.md)
+       2. [SendTo](WorkspaceSendTo.md)
+       3. Download
+       4. Manage
+    2. The Canvas
+    3. Information Panel
+    4. The Dock
+2. **Manage Workspace** <br>
  Allows you to 
     1. Add and remove people as members of your workspace<br>
     :information_desk_person: When you add a person they will receive an email with details on how to access the workspace<br>
