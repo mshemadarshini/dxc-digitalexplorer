@@ -5,7 +5,7 @@
 1. The Workspace canvas is divided into 4 areas:<br>
    <br>![login](images/workspace2.png)<br><br>
     1. Workspace tools
-       1. [Analyzer](WorkspaceAnaylzer.md)
+       1. [Compare](WorkspaceCompare.md)
        2. [SendTo](WorkspaceSendTo.md)
        3. Download
        4. Manage

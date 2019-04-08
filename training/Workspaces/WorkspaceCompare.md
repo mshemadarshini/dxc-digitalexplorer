@@ -1,11 +1,11 @@
 # Digital Explorer | Workspaces
 
-## Workspace Analyzer
-The `analyzer` options allows users to select 2 or 3 workspaces and compare for similar results
+## Workspace Compare
+The `Compare` options allows users to select 2 or 3 workspaces and compare for similar results
 
-- Access the Analyzer via the workspace tools<br>
+- Access the Compare via the workspace tools<br>
   ![image](images/WorkspaceTools.png)<br>
-- Select 1 or 2 other workspaces you wish to compare and click `Analyze`<br>
+- Select 1 or 2 other workspaces you wish to compare and click `Compare`<br>
   ![image](images/Analyzer1.png)<br>
 
 The results are shown as a Venn Diagram
