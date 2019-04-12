@@ -34,10 +34,13 @@ Ensure you have this information in mind before you start
   :bulb: You can select images for your playbook title page and banner from the provided library or upload your own.<br>
   :bulb: You can select the colour of your banner text to ensure it is visible on the homepage
 
-### Section text
-:bulb: all information on this page is optional
+### Pages text
   <br>![appblock](images/playbook3.png)<br>
-  :bulb: You can select a supporting image for your playbook section page  from the provided library or upload your own.<br>
+  :bulb: You can add more pages by selecting `Add new page`
+   <br>![appblock](images/playbook3a.png)<br>
+  :bulb: On all pages you can select a supporting image for your playbook section page  from the provided library or upload your own.<br>
+  :bulb: You can change the order of the pages using the `arrows` <br>
+   <br>![appblock](images/playbook3b.png)<br><br>
 
 ### Trends
   <br>![appblock](images/playbook4.png)
