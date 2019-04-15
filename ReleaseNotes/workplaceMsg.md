@@ -1,12 +1,10 @@
- 
-# DXC Digital Explorer new release  just deployed
+# DXC Digital Explorer ~ New release just deployed
 
-- **Workspaces : SEND TO..**
-_plus_
+- **Roadmaps : Idea Votes, Status and Owners**
+- **Playbooks : More Pages**
 
-- upgraded to Neo4j 3.5.3
 
 ### Full release notes : 
-https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/ReleaseNotes/2019.04.28.md
+https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/ReleaseNotes/2019.04.15.md
 
 #DigitalExplorer #Accelerate2Digital
