@@ -54,4 +54,4 @@ DXC Digital Explorer is not a data lake, DXC Digital Explorer is a living datase
 
 ### :busts_in_silhouette: Contacts
 
-* Product Owner/Architect : [David Stevens](davidstevens@dxc.com)
+* Product Owner/Architect : [David Stevens](https://github.com/EnglishSid)
