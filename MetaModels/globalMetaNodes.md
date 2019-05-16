@@ -9,56 +9,134 @@ Changes to these have a wide ranging impact to all modules within Digital Explor
 * Delete - Deleted from META_ , only delete from LIVE if no relationship to other nodes are in place
 
 ## Industry & Sub-Industry
-DXC industry taxonomy
+DXC industry model
+<br>
+**Node label : META_Industry**<br>
+**Node label : META_SubIndustry**
 
 **Used in**
 
-|   | Trends| Roadmaps | Solutions | Workspaces | Explorer|
-|---|---    |---     |---        |--          |---      |
-|   | X     | X      | X         |            |     X   |
+|   | Trends| Roadmaps | Solutions | Workspaces | Explorer|Playbooks
+|---|---|---|---|---|---|---|
+|   | X | X | X | X | X | X |
+
+
+## Business Areas
+3rd level of the industry model, provides details of value chains and/or key business areas relevant to Digital Transformation
+
+**Node label : META_BusinessArea**
+
+**Used in**
+
+|   | Trends| Roadmaps | Solutions | Workspaces | Explorer|Playbooks
+|---|---|---|---|---|---|---|
+|   | X | X |  | X | X |  |
 
 ## Offering Family
 DXC offering family names 
 
+**Node label : META_Practice**
+
 **Used in**
 
-| | Trends| Roadmaps | Solutions | Workspaces | Explorer|
-|---|---|---|---|---|---|
+|   | Trends| Roadmaps | Solutions | Workspaces | Explorer|Playbooks
+|---|---|---|---|---|---|---|
 | |  |  | X | | X|
 
 ## Roles
-Master list of available roles to assign to people
+Master list of available roles to assign to a person
+
+**Node label : META_PersonRole**
 
 **Used in**
 
-| | Trends| Roadmaps | Solutions | Workspaces | Explorer|
-|---|---|---|---|---|---|
-| | X | X | X | | |
+|   | Trends| Roadmaps | Solutions | Workspaces | Explorer|Playbooks
+|---|---|---|---|---|---|---|
+| | X | X | X | |X |
 
 
 ## Technology Groups
-Master list of technology groups
+Master list of technology groups, where technology trends and solution features can be assigned.
+
+**Node label : META_TechnologyGroup**
 
 **Used in**
 
-| | Trends| Roadmaps | Solutions | Workspaces | Explorer|
-|---|---|---|---|---|---|
+|   | Trends| Roadmaps | Solutions | Workspaces | Explorer|Playbooks
+|---|---|---|---|---|---|---|
 | | X |  | X | | X |
 
 ## Documentation Types
 Master list of available documentation types
 
+**Node label : META_DocumentationCategory**
+
 **Used in**
 
-| | Trends| Roadmaps | Solutions | Workspaces | Explorer|
-|---|---|---|---|---|---|
+|   | Trends| Roadmaps | Solutions | Workspaces | Explorer|Playbooks
+|---|---|---|---|---|---|---|
 | | |  | X | X |  |
+
+
+
+## Solution Type
+Top level grouping for solutions - examples `DXC Solution`, `Partner Capability`
+**Node label : META_SolutionType**
+
+**Used in**
+
+|   | Trends| Roadmaps | Solutions | Workspaces | Explorer|Playbooks
+|---|---|---|---|---|---|---|
+| | |  |  | X |  |
+
+## Solution Sub Type
+Second level grouping for solutions, below `SolutionType` - examples `Concept`, `Pilot`
+**Node label : META_SolutionSubType**
+
+**Used in**
+
+|   | Trends| Roadmaps | Solutions | Workspaces | Explorer|Playbooks
+|---|---|---|---|---|---|---|
+| | |  |  | X |  |
+
+## Solution Status
+Master list of available statuses for a solution
+**Node label : META_Status**
+
+**Used in**
+
+|   | Trends| Roadmaps | Solutions | Workspaces | Explorer|Playbooks
+|---|---|---|---|---|---|---|
+| | |  |  | X |  |
+
+## Solution Category
+Optional : High-level grouping for solutions, used within internal DXC campaigns and competitions.
+
+**Node label : META_Category**
+
+**Used in**
+
+|   | Trends| Roadmaps | Solutions | Workspaces | Explorer|Playbooks
+|---|---|---|---|---|---|---|
+| | |  |  | X |  |
+
+
+## Solution Feature Category
+Defines the type of solution features, offering, capability, method
+
+**Node label : META_FeatureCategory**
+
+**Used in**
+
+|   | Trends| Roadmaps | Solutions | Workspaces | Explorer|Playbooks
+|---|---|---|---|---|---|---|
+| | |  |  | X |  |
 
 ## Person
 Reference node for all people associated with any module, action or node within the database.
 
 **Used in**
 
-| | Trends| Roadmaps | Solutions | Workspaces | Explorer|
-|---|---|---|---|---|---|
+|   | Trends| Roadmaps | Solutions | Workspaces | Explorer|Playbooks
+|---|---|---|---|---|---|---|
 | |X |X  | X | X |X  |

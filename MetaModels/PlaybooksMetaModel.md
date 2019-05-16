@@ -23,6 +23,13 @@
 |SectionText2| |string |5000 Characters
 |SectionImage|URI address for the image
 
+#### Node Label: PlaybookShelf
+
+|Property|Description|type|limits
+|----|----|----|----|
+|id|system generated
+|name |
+
 #### Relationships
 
 |Source|Destination|Name|Properties|
@@ -34,4 +41,6 @@
 |Playbook|SubIndustry|ASSOCIATED
 |Playbook|Tag|HAS
 |Playbook|Person|ASSOCIATED
-|Playbook|Person|CREATED {creationDate}
+|Playbook|Person|CREATED |creationDate
+|Playbook|PlaybookShelf|BELONGS_TO
+|Person|PlaybookShelf|MEMBER_OF|Role

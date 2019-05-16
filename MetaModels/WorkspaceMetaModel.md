@@ -9,6 +9,15 @@
 |id|system generated
 |Name |
 
+#### Node Label: WorkspaceGroup
+
+|Property|Description|
+|----|----|
+|id|system generated
+|Name |
+|Public|
+
+
 
 #### Node Label: Workspace Note
 
@@ -33,7 +42,8 @@
 
 |Source|Destination|Name|Properties|
 |----|----|----|----|
-|Person|Workspace|MEMBER_OF
+|Person|WorkspaceGroup|MEMBER_OF|role
+|Workspace|WorkspaceGroup|MEMBER_OF|
 |Person|Workspace|REFERENCED
 |BusinessTrend|Workspace|REFERENCED
 |TechnologyTrend|Workspace|REFERENCED
@@ -41,15 +51,15 @@
 |Industry|Workspace|REFERENCED
 |SubIndustry|Workspace|REFERENCED
 |BusinessArea|Workspace|REFERENCED
-|Attachment|Workspace|INCLUDES
-|WorkspaceNote|Workspace|INCLUDES
-|Person|WorkspaceNote|INCLUDES
-|BusinessTrend|WorkspaceNote|INCLUDES
-|TechnologyTrend|WorkspaceNote|INCLUDES
-|Solution|WorkspaceNote|INCLUDES
-|Industry|WorkspaceNote|INCLUDES
-|SubIndustry|WorkspaceNote|INCLUDES
-|BusinessArea|WorkspaceNote|INCLUDES|
+|Attachment|Workspace|INCLUDES|
+|WorkspaceNote|Workspace|INCLUDES|
+|Person|WorkspaceNote|INCLUDES|workspaceId
+|BusinessTrend|WorkspaceNote|INCLUDES|workspaceId
+|TechnologyTrend|WorkspaceNote|INCLUDES|workspaceId
+|Solution|WorkspaceNote|INCLUDES|workspaceId
+|Industry|WorkspaceNote|INCLUDES|workspaceId
+|SubIndustry|WorkspaceNote|INCLUDES|workspaceId
+|BusinessArea|WorkspaceNote|INCLUDES|workspaceId
 |Attachment|BusinessTrend|REFERENCED|occurrence
 |Attachment|TechnologyTrend|REFERENCED|occurrence
 |Attachment|Industry|REFERENCED|occurrence
