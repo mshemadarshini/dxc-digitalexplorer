@@ -58,7 +58,7 @@ DXC offering family names
 
 ## DXC Delivery Centers
 Master list of DXC global delivery centers
-<br>![image](../images/DXCAligned.png)<br>
+
 **Node label : DeliveryCenter**
 
 **Used in**
@@ -69,7 +69,7 @@ Master list of DXC global delivery centers
 
 ## DXC Delivery Center Type
 Defines the type of delivery center - examples `DTC`, `RDC`
-<br>![image](../images/DXCAligned.png)<br>
+
 **Node label : DeliveryCenterType**
 
 **Used in**
