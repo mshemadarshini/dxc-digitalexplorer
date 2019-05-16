@@ -10,6 +10,7 @@ Changes to these have a wide ranging impact to all modules within Digital Explor
 
 ## Industry & Sub-Industry
 DXC industry model
+<br>![image](../images/DXCAligned.png)
 <br>
 **Node label : META_Industry**<br>
 **Node label : META_SubIndustry**
@@ -34,7 +35,7 @@ DXC industry model
 
 ## Offering Family
 DXC offering family names 
-
+<br>![image](../images/DXCAligned.png)
 **Node label : META_Practice**
 
 **Used in**
