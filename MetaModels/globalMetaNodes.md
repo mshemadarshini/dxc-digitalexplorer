@@ -55,6 +55,29 @@ DXC offering family names
 |---|---|---|---|---|---|---|
 | |  |  | X | | X|
 
+
+## DXC Delivery Centers
+Master list of DXC global delivery centers
+<br>![image](../images/DXCAligned.png)<br>
+**Node label : DeliveryCenter**
+
+**Used in**
+
+|   | Trends| Roadmaps | Solutions | Workspaces | Explorer|Playbooks
+|---|---|---|---|---|---|---|
+| |  |  | X |X | |
+
+## DXC Delivery Center Type
+Defines the type of delivery center - examples `DTC`, `RDC`
+<br>![image](../images/DXCAligned.png)<br>
+**Node label : DeliveryCenterType**
+
+**Used in**
+
+|   | Trends| Roadmaps | Solutions | Workspaces | Explorer|Playbooks
+|---|---|---|---|---|---|---|
+| |  |  | X |X | |
+
 ## Roles
 Master list of available roles to assign to a person
 
