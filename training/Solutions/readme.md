@@ -10,4 +10,5 @@ _duration : 0:55_
 
 |Description|Level|Contact|
 |---|---|---|
-| [How to submit solutions into Digital Explorer](SubmittingSolutions/readme.md) |200|David Stevens|
+| [Overview of the Solution Module (Video)](https://dxc.mediaplatform.com/#!/video/1837/Digital+Explorer+Solutions+Module+Overview)|100|David Stevens|
+| [How to submit solutions into Digital Explorer](SubmittingSolutions/readme.md) |300|David Stevens|

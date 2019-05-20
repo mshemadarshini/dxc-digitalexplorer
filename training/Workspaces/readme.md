@@ -11,12 +11,13 @@ _duration : 0:56_
 
 |Description|Level|Contact|
 |---|---|---|
-| [Creating a Workspace](WorkspaceSetup.md) |100|David Stevens|
-| [Using the Workspace Canvas](WorkspaceCanvas.md)|100|David Stevens|
-| [Adding a Trend to a Workspace](AddingaTrendtoaWorkspace.md) |200|David Stevens|
-| [Adding a Solution to a Workspace](AddingaSolutiontoaWorkspace.md) |200|David Stevens|
+| [Overview of the Workspace Module (Video)](https://dxc.mediaplatform.com/#!/video/1836/Overview+of+the+Digital+Explorer+Workspace+Module) |100|David Stevens|
+| [Creating a Workspace](WorkspaceSetup.md) |200|David Stevens|
+| [Using the Workspace Canvas](WorkspaceCanvas.md)|200|David Stevens|
 | [Workspace document upload and analyse](workspaceDocuments.md)|200|David Stevens|
+| [Workspace Compare](WorkspaceCompare.md)|200|David Stevens
 | [Workspace SendTo..](WorkspaceSendTo.md)|200|David Stevens
-| [Workspace Compare](orkspaceCompare.md)|200|David Stevens
 | [Real-time collaboration](Real-timeCollaboration.md)|200|David Stevens|
+| [Adding a Trend to a Workspace](AddingaTrendtoaWorkspace.md) |300|David Stevens|
+| [Adding a Solution to a Workspace](AddingaSolutiontoaWorkspace.md) |300|David Stevens|
 

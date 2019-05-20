@@ -32,7 +32,7 @@ Select to `From Template`<br>
 1. You will only need to add the initial information such as name and description, the other starting values are pulled in from the template.
 
 
-## [Next - The Roadmap Canvas](AgendaCanvas.md)
+## [Next - The Roadmap Canvas](RoadmapCanvas.md)
 
 
 
