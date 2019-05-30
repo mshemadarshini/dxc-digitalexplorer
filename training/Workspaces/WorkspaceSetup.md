@@ -18,4 +18,4 @@ Workspaces are organised by groups.   You can create a new group or become a mem
     :information_desk_person: If you have existing workspaces these are also shown on the homepage
 
 
-## [Next - The Workspace Canvas](WorkspaceSetupGroups.md)
+## [Next - Managing your Workspace Group](WorkspaceSetupGroups.md)
