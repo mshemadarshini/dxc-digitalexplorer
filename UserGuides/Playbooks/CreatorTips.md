@@ -66,3 +66,14 @@ Tables
 ~~~
 
 :bulb: recommendation is to use only H3 and H4 within your solution descriptions
+
+
+## Adding images
+
+The 3 page layouts within DXC Digital Explorer Playbooks support the following image sizes
+
+3 column page : 480x479
+2 column page : 640x426
+full page image : 640x280
+
+
