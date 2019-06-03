@@ -5,10 +5,10 @@ The technology trends page is the master reference points for Digital trends key
 
 
 - To navigate the information, simply select a target technology group on the main page; each technology group follows the same layout.<br>
-![image](images/technology2.PNG)<br>
+![image](images/technology2.png)<br>
 - Select the required  **maturity stage** to view the trends within your chosen technology area.<br>
 - Trend information panel<br>
-![image](images/technology3.PNG)<br>
+![image](images/technology3.png)<br>
 The trend information panel consists of 4 areas:<br>
     1. A general description of the trend<br>
     1. Source and Author information
