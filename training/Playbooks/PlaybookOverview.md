@@ -15,6 +15,9 @@ The Playbooks module within DXC Digital Explorer allows you to create and share 
 - Technology Showcases
 - Delivery Center and Customer briefing packs.
 
+### Playbook Shelves
+Playbooks are organised into shelfs; the main playbook homepage shows the available shelfs, click a shelf to view the playbooks.
+
 ### Playbook sections
 Each Playbook is broken down into the following sections
 

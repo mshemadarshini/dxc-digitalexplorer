@@ -27,7 +27,16 @@ Ensure you have this information in mind before you start
 
 ### Introduction form
   <br>![appblock](images/playbook1.png)
-  - The `Private` option allows you to restrict the access to your playbook, non-private playbooks are visible to all users on the main homepage
+<br>
+- Each playbook must belong to a `Playbook shelf`.  Select an existing shelf or create a new shelf for your playbook.
+- The `Private` option allows you to restrict the access to your playbook, non-private playbooks are visible to all users on the main homepage
+- The `DXC Only` allows you to restrict the playbook to only DXC Employees.
+
+#### Shelf details
+![appblock](images/playbook1a.png)<br>
+The playbook shelf is shown on the homepage of the playbooks module.  You can select the name, a banner image and also the text colour (black or white) for the banner text within the shelf details dialog.
+
+
 
 ### Images
   <br>![appblock](images/playbook2.png)

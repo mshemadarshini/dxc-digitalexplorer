@@ -26,7 +26,7 @@ The following content types are matched within the Digital Explorer Platform
 ## How to guide
 
 1. Login and access your workspace see [Workspace set-up](WorkspaceSetup.md) and [Workspace Canvas](WorkspaceCanvas.md) guides for details
-2. Select to `Analyze a document` or `Analyze a webpage` via the workspace dock<br>
+2. Select to `Analyze a document` or `Analyze a webpage` via the workspace toolbar<br>
 ![image](images/workspace8.png)<br>
 1. Documents
    1. Browse or Drag and Drop your document into the file reader dialog<br>
