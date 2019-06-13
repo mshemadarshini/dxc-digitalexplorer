@@ -16,11 +16,8 @@ In order to create a new digital roadmap you must be a member of the account tea
 <br>
 :bulb:  Use the filters to narrow down the results to your required `Region` or `Industry`
 <br>
-1. You can expand the view of a single account to view the current account contacts<br>
-        
-        ![image](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/training/Roadmaps/images/AccountManager2.png)
-        <br>
-
+1. You can expand the view of a single account to view the current account contacts
+        ![image](images/AccountManager2.png)
 :bulb: Use the `Request to join` icon to ask the existing contacts to approve your request to join the account
 
 
