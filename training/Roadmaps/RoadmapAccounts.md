@@ -10,7 +10,7 @@ In order to create a new digital roadmap you must be a member of the account tea
 1. Select **`Login`**  with your global pass account 
     <br>![login](images/login.png)
  1. If not already in the `Roadmap` module change to the solutions module via the `appblock` in the header
-    <br>![image](images/image.png)
+    <br>![image](images/appblock.png)
 1. Select **`Account  Manager`** from the context menu
         <br>![image](images/AccountManager1.png)<br>
         <br>
@@ -18,7 +18,7 @@ In order to create a new digital roadmap you must be a member of the account tea
 1. You can expand the view of a single account to view the current account contacts
         <br>![image](images/AccountManager2.png)<br><br>        
 :bulb: Use the `Request to join` icon to ask the existing contacts to approve your request to join the account
-
+<br>![image](images/AccountManager4.png)<br><br>      
 
 ###  Creating a new account
 
