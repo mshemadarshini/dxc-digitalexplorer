@@ -17,6 +17,7 @@ _duration : 0:35_
 |Description|Level|Contact|
 |---|---|---|
 | [Introduction to the Roadmap Module (video)](https://dxc.mediaplatform.com/#!/video/1838/Digital+Explorer+Roadmaps+module+overview)|100|David Stevens|
+| [Join or create an account](RoadmapAccounts.md)| 100| David Stevens
 | [Overview of the Roadmap Module](RoadmapOverview.md) |200|David Stevens|
 | [Initial roadmap Set-up](InitialSetup.md) |200|David Stevens|
 | [The roadmap Canvas](RoadmapCanvas.md) |200|David Stevens|
