@@ -5,14 +5,23 @@
 
 You can contribute to Digital Explorer in many ways
 
-* [Reporting issues (defects or enhancements)](#Reporting-Issues)
-* [Contributing content](#Contributing-content)
-* [Additional Notes](#Additional-Notes)
+- [Contributing to Digital Explorer](#Contributing-to-Digital-Explorer)
+  - [Reporting Issues](#Reporting-Issues)
+    - [Internal DXC Users](#Internal-DXC-Users)
+    - [All other users](#All-other-users)
+    - [Issue prefixes](#Issue-prefixes)
+  - [Contributing content](#Contributing-content)
+  - [Additional Notes](#Additional-Notes)
 
 
 ## Reporting Issues
-Defects and enhancements can be raised via the [Issues](https://github.dxc.com/DigitalExplorer/Digital-Explorer-Specs/issues) log on this GitHub repository.  
-please prefix your issue with the corresponding Digital Explorer Module
+
+### Internal DXC Users
+Defects and enhancements can be raised via the [Issues log](https://github.dxc.com/DigitalExplorer/Digital-Explorer-Specs/issues) on the internal GitHub instance.  
+
+
+### All other users
+Defects and enhancements can be raised via the [Issues List](https://github.com/dxc-technology/dxc-digitalexplorer/issues/new) on this GitHub repository
 
 ### Issue prefixes
 

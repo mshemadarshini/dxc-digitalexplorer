@@ -18,7 +18,12 @@ In order to create a new digital roadmap you must be a member of the account tea
 1. You can expand the view of a single account to view the current account contacts
         <br>![image](images/AccountManager2.png)<br><br>        
 :bulb: Use the `Request to join` icon to ask the existing contacts to approve your request to join the account
-<br>![image](images/AccountManager4.png)<br><br>      
+<br>![image](images/AccountManager4.png)<br>
+- You will receive a confirmation email once your request has been reviewed.
+
+
+
+<br><br>
 
 ###  Creating a new account
 
