@@ -19,9 +19,27 @@
 |Property|Description|type|limits
 |----|----|----|----|
 |id|system generated
-|SectionText1| |string |5000 Characters
-|SectionText2| |string |5000 Characters
-|SectionImage|URI address for the image
+|layout|Type of page layout| |See below for layout types
+|Text|Page Text |string |5000 Characters
+|SecondText|Page SubTitle |string |5000 Characters
+|ImageURI|URI address for the image
+
+
+|Layout|Description|
+|---|---|
+|GRAPH|Graph view from workspace
+|T_MAP|TMAP diagram from roadmaps
+|SUMMARY|Summary table from roadmaps
+|COMPARE|Compare view from workspace
+|RISK_TABLE|Risk table from roadmaps
+|TWO_COLUMNS_IMAGE_LEFT|1 text column image left
+|TWO_COLUMNS_IMAGE_RIGHT|1 text column image left
+|THREE_COLUMNS_IMAGE_LEFT|2 text columns image right
+|THREE_COLUMNS_IMAGE_RIGHT|2 text columns image right
+|THREE_COLUMNS|3 text columns
+|TWO_COLUMNS|2 text columns
+|ONE_COLUMN|single image view (full page)
+
 
 #### Node Label: PlaybookShelf
 
