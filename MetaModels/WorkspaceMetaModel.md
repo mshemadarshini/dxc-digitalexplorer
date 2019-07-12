@@ -42,6 +42,7 @@
 
 |Source|Destination|Name|Properties|
 |----|----|----|----|
+|WorkspaceGroup|Account|ASSIGNED|
 |Person|WorkspaceGroup|MEMBER_OF|role
 |Workspace|WorkspaceGroup|MEMBER_OF|
 |Person|Workspace|REFERENCED
