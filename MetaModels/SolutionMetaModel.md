@@ -20,8 +20,8 @@ Ratio : 1
 |creationDate |system generated creation date|longdate
 |Status|Status of the solution|string
 |lastModificationDate |system generated last modified date|longdate
-|referenceable|value to set if solution is externally referencable|string |default = no
-|searchable|boolean value to set if the solution is returned in the search results|boolean| default = `true`
+|referenceable|value to set if solution is externally referenceable|string |default = no
+|searchable|Boolean value to set if the solution is returned in the search results|Boolean| default = `true`
 |solution.BusinessValue|Quantitate value of the solution in terms of business outcomes|string||
 |solution.TechnicalValue|Quantitate value of the solution in terms of technical outcomes|string|
 |solution.Savings|total savings of the solution in K$|number
@@ -283,6 +283,13 @@ Ratio : 1:1
 |Solution|ConfigurationPlan|REALIZED_BY
 
 
+#### Event Relationships
+
+|Source|Destination|Name|Properties|
+|----|----|----|----|
+|Person|Solution|VOTED_FOR|{EVENT NAME}
+
+
 ----
 
 ## Change log
@@ -293,3 +300,4 @@ Ratio : 1:1
 |May 2018| David Stevens | Updates to the attachment model (DocType)
 |August 2018| David Stevens | Updates to solution properties for Quantitate values, new SFDC node, relationship to Region
 |March 2019| David Stevens |Added indexing notes
+|July 2019| David Stevens | Added special relationship for event voting
